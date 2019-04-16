@@ -1,0 +1,6 @@
+pub_date	title	venue	url_slug	paper_url
+2018-05-01	Data-driven forecasting of high-dimensional chaotic systems with long short-term memory networks	Proc. R. Soc. A	chaotic-lstm	http://wonmin-byeon.github.io/files/18-prsa.pdf
+2016-09-06	Symbolic Association using Parallel Multilayer Perceptron	ICANN	symbolic-association-icann16	http://wonmin-byeon.github.io/files/11-16-icann.pdf
+2016-03-07	Image Analysis with Long Short-Term Memory Recurrent Neural Networks	PhD Thesis	phdthesis	http://wonmin-byeon.github.io/files/12-16-PhD-thesis.pdf
+2015-12-11	Symbol Grounding in Multimodal Sequences using Recurrent Neural Networks	CoCo@ NIPS	symbolic-grounding	http://wonmin-byeon.github.io/files/10-15-CoCoNIPS.pdf
+2015-10-01	Scene analysis by mid-level attribute learning using 2d lstm networks and an application to web-image tagging.	CoCo@ NIPS	prl15	http://wonmin-byeon.github.io/files/6-15-prl.pdf
