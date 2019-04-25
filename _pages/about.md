@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Research Interest"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -11,9 +11,13 @@ redirect_from:
 <!-- Researcher at NVIDIA -->
 <!-- Research Interest
 ====== -->
+Research Interest
+======
 Machine Learning, Computer Vision, Artificial Intelligence
 
-Long Short-Term Memory (LSTM), Muiti-Dimensional LSTM, Unsupervised Learning
+Long Short-Term Memory (LSTM), Muiti-Dimensional LSTM
+
+Future Prediction, Unsupervised Learning
 
 News
 ======
