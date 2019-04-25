@@ -14,7 +14,7 @@ redirect_from:
 
 Research
 ======
-Machine Learning, Computer Vision, Artificial Intelligence
+Machine Learning, Deep Learning, Computer Vision, Artificial Intelligence
 
 Long Short-Term Memory (LSTM), Muiti-Dimensional LSTM
 
