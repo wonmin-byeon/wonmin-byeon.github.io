@@ -7,7 +7,7 @@ venue: 'Journal of Computational Science'
 citation: 'W Byeon, M Domínguez-Rodrigo, G Arampatzis, E Baquedano, J Yravedra, M A Maté-González, P Koumoutsakos'
 paperurl: 'https://www.cse-lab.ethz.ch/wp-content/papercite-data/pdf/byeon2019a.pdf'
 ---
-[[paper]](https://www.cse-lab.ethz.ch/wp-content/papercite-data/pdf/byeon2019a.pdf)
+[[paper]](https://www.cse-lab.ethz.ch/wp-content/papercite-data/pdf/byeon2019a.pdf) &nbsp;[[code]](https://github.com/cselab/cut-marks-classification)
 
 Abstract
 ==
