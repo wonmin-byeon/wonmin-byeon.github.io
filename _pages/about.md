@@ -12,7 +12,7 @@ redirect_from:
 <!-- Research Interest
 ====== -->
 
-Research Interest
+Research
 ======
 Machine Learning, Computer Vision, Artificial Intelligence
 
