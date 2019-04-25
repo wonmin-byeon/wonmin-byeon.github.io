@@ -11,6 +11,7 @@ redirect_from:
 <!-- Researcher at NVIDIA -->
 <!-- Research Interest
 ====== -->
+
 Research Interest
 ======
 Machine Learning, Computer Vision, Artificial Intelligence
