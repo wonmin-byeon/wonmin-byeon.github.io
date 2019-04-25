@@ -1,5 +1,5 @@
 ---
-title: "Boosting segmentation with weak supervision from image-to-image translation"
+title: "Boosting Segmentation with Weak Supervision From Image-to-Image Translation"
 collection: publications
 permalink: /publication/2019-04-gan-segmentation
 date: 2019-04-04

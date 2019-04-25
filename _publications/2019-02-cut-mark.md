@@ -1,5 +1,5 @@
 ---
-title: "Automated identification and deep classification of cut marks on bones and its paleoanthropological implications"
+title: "Automated Identification and Deep Classification of Cut Marks on Bones and Its Paleoanthropological Implications"
 collection: publications
 permalink: /publication/2019-02-cut-mark
 date: 2019-03-01
