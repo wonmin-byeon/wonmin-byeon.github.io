@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2018-05-01-chaotic-lstm
 date: 2018-05-01
 venue: 'Proceedings of the Royal Society A: Mathematical, Physical & Engineering Sciences'
-citation: 'PR Vlachas, W Byeon, ZY Wan, TP Sapsis, P Koumoutsakos'
+citation: 'PR Vlachas, <b>W Byeon</b>, ZY Wan, TP Sapsis, P Koumoutsakos <b>|</b> <i>ICANN 2016</i> '
 paperurl: 'http://wonmin-byeon.github.io/files/18_PRSA.pdf'
 ---
 [[paper]](http://wonmin-byeon.github.io/files/18_PRSA.pdf)
