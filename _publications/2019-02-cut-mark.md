@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2019-02-cut-mark
 date: 2019-03-01
 venue: 'Journal of Computational Science'
-citation: 'W Byeon, M Domínguez-Rodrigo, G Arampatzis, E Baquedano, J Yravedra, M A Maté-González, P Koumoutsakos'
+citation: '<b>W Byeon</b>, M Domínguez-Rodrigo, G Arampatzis, E Baquedano, J Yravedra, M A Maté-González, P Koumoutsakos <b>|</b> <i>Journal of Computational Science 2019</i> '
 paperurl: 'https://www.cse-lab.ethz.ch/wp-content/papercite-data/pdf/byeon2019a.pdf'
 ---
 [[paper]](https://www.cse-lab.ethz.ch/wp-content/papercite-data/pdf/byeon2019a.pdf) &nbsp;[[code]](https://github.com/cselab/cut-marks-classification)
