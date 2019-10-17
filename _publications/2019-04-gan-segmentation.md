@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2019-04-gan-segmentation
 date: 2019-04-04
 venue: 'arXiv'
-citation: 'E Vorontsov, P Molchanov, W Byeon, S De Mello, V Jampani, M Liu, S Kadoury, J Kautz'
+citation: 'E Vorontsov, P Molchanov, <b>W Byeon</b>, S De Mello, V Jampani, M Liu, S Kadoury, J Kautz <b>|</b> <i>arXiv 2019</i> '
 paperurl: 'https://arxiv.org/pdf/1904.01636.pdf'
 ---
 [[paper]](https://arxiv.org/pdf/1904.01636.pdf)
