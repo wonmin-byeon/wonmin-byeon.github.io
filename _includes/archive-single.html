@@ -12,18 +12,6 @@
   {% assign title = post.title %}
 {% endif %}
 
-p
-{
-  margin:0;
-  padding:0;
-  font-size:60px;
-}
-div
-{
-  margin:0;
-  padding:0;
-}
-
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
