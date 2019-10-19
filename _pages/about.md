@@ -27,6 +27,6 @@ Research
 
 Recent Publications
 ======
-* <b>W Byeon</b>, Q Wang, R K Srivastava, P Koumoutsakos <b>, "ContextVP: Fully Context-Aware Video Prediction", ECCV 2018 [[project page]](https://wonmin-byeon.github.io/publication/2018-eccv)
+* <b>W Byeon</b>, Q Wang, R K Srivastava, P Koumoutsakos, "ContextVP: Fully Context-Aware Video Prediction", ECCV 2018 [[project page]](https://wonmin-byeon.github.io/publication/2018-eccv)
 
-* PR Vlachas, <b>W Byeon</b>, ZY Wan, TP Sapsis, P Koumoutsakos <b>, "Data-Driven Forecasting of High-Dimensional Chaotic Systems with Long Short-Term Memory Networks", Proceedings of the Royal Society A: Mathematical, Physical & Engineering Sciences 2018
+* PR Vlachas, <b>W Byeon</b>, ZY Wan, TP Sapsis, P Koumoutsakos <b>, "Data-Driven Forecasting of High-Dimensional Chaotic Systems with Long Short-Term Memory Networks", Proceedings of the Royal Society A: Mathematical, Physical & Engineering Sciences 2018 [[project page]](https://wonmin-byeon.github.io/publication/2018-05-01-Chaotic-lstm)
