@@ -14,11 +14,9 @@ redirect_from:
 
 Research
 ======
-Machine Learning, Deep Learning, Computer Vision, Artificial Intelligence
-
 Long Short-Term Memory (LSTM), Muiti-Dimensional LSTM
 
-Future Prediction, Unsupervised Learning
+Sequence Learning, Predictive Modelling
 
 News
 ======
