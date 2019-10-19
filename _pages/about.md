@@ -27,4 +27,8 @@ Research
 <!-- NVIDIA Research is hiring interns and full-time  -->
 <!-- News
 ======
-* Sep. 2018, ECCV oral presentation [project page](https://wonmin-byeon.github.io/publication/2018-eccv)  -->
+*  [project page](https://wonmin-byeon.github.io/publication/2018-eccv)  -->
+
+Recent Works
+======
+* ContextVP: Fully Context-Aware Video Prediction, ECCV 2018 [project page](https://wonmin-byeon.github.io/publication/2018-eccv)
