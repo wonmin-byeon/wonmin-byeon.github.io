@@ -8,10 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<!-- Researcher at NVIDIA -->
-<!-- Research Interest
-====== -->
-
 Research
 ======
 * Long Short-Term Memory (LSTM)
@@ -27,8 +23,8 @@ Research
 <!-- NVIDIA Research is hiring interns and full-time  -->
 <!-- News
 ======
-*  [project page](https://wonmin-byeon.github.io/publication/2018-eccv)  -->
+ * Sep. 2018, ECCV oral presentation [project page](https://wonmin-byeon.github.io/publication/2018-eccv)  -->
 
 Recent Works
 ======
-* ContextVP: Fully Context-Aware Video Prediction, ECCV 2018 [project page](https://wonmin-byeon.github.io/publication/2018-eccv)
+* ContextVP: Fully Context-Aware Video Prediction, ECCV 2018 [[project page]](https://wonmin-byeon.github.io/publication/2018-eccv)
