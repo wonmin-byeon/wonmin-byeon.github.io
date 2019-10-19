@@ -25,7 +25,7 @@ Research
 ======
  * Sep. 2018, ECCV oral presentation [project page](https://wonmin-byeon.github.io/publication/2018-eccv)  -->
 
-Recent Publications
+Recent Projects
 ======
 * <b>W Byeon</b>, Q Wang, R K Srivastava, P Koumoutsakos, "ContextVP: Fully Context-Aware Video Prediction", ECCV 2018 [[project page]](https://wonmin-byeon.github.io/publication/2018-eccv)
 
