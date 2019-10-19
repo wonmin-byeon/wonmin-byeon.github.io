@@ -14,10 +14,17 @@ redirect_from:
 
 Research
 ======
-Long Short-Term Memory (LSTM), Muiti-Dimensional LSTM
+* Long Short-Term Memory (LSTM)
 
-High-Dimensional Sequence Learning, Spatio-Temporal Learning, Predictive Modelling
+* Muiti-Dimensional LSTM
 
+* High-Dimensional Sequence Learning
+
+* Spatio-Temporal Learning
+
+* Predictive Modelling
+
+<!-- NVIDIA Research is hiring interns and full-time  -->
 <!-- News
 ======
 * Sep. 2018, ECCV oral presentation [project page](https://wonmin-byeon.github.io/publication/2018-eccv)  -->
