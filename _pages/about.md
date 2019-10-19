@@ -16,7 +16,7 @@ Research
 ======
 Long Short-Term Memory (LSTM), Muiti-Dimensional LSTM
 
-Sequence Learning, Predictive Modelling
+High-Dimensional Sequence Learning, Spatio-Temporal Learning, Predictive Modelling
 
 News
 ======
