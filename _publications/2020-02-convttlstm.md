@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020-02-convttlstm
 date: 2020-02-21
 venue: 'arXiv'
-citation: 'J Su*, <b>W Byeon*</b>, F Huang, J Kautz, A Anandkumar  <b> (*) equal contributions </b> <b>|</b> <i>arXiv 2019</i> '
+citation: 'J Su*, <b>W Byeon*</b>, F Huang, J Kautz, A Anandkumar  <b> (*) equal contributions </b> <b>|</b> <i>arXiv 2020</i> '
 paperurl: 'https://arxiv.org/abs/2002.09131'
 ---
 [[paper]](https://arxiv.org/abs/2002.09131)
