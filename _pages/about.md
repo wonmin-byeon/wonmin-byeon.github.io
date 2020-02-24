@@ -10,13 +10,9 @@ redirect_from:
 
 Research
 ======
-* Long Short-Term Memory (LSTM)
+* Long Short-Term Memory (LSTM), Muiti-Dimensional LSTM
 
-* Muiti-Dimensional LSTM
-
-* High-Dimensional Sequence Learning
-
-* Spatio-Temporal Learning
+* High-Dimensional Sequence Learning, Spatio-Temporal Learning
 
 * Predictive Learning
 
