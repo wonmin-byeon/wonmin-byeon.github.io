@@ -18,7 +18,7 @@ Research
 
 * Spatio-Temporal Learning
 
-* Predictive Modelling
+* Predictive Learning
 
 <!-- NVIDIA Research is hiring interns and full-time  -->
 <!-- News
