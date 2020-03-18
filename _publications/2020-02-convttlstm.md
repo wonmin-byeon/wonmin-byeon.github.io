@@ -16,8 +16,12 @@ Higher-order Recurrent Neural Networks (RNNs) are effective for long-term foreca
 Prediction Results
 ==
 Moving-MNIST
+--
 ![](http://wonmin-byeon.github.io/files/result-convttlstm20/mnist.gif)
-<!-- ![](http://wonmin-byeon.github.io/files/result-convttlstm20/kth.gif) -->
+
+<!-- KTH
+--
+![](http://wonmin-byeon.github.io/files/result-convttlstm20/kth.gif) -->
 
 ```
 @misc{su2020convolutional,
