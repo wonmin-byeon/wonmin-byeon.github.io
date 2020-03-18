@@ -17,7 +17,7 @@ Prediction Results
 ==
 Moving-MNIST
 ![](http://wonmin-byeon.github.io/files/result-convttlstm20/mnist.gif)
-%![](http://wonmin-byeon.github.io/files/result-convttlstm20/kth.gif)
+<!-- ![](http://wonmin-byeon.github.io/files/result-convttlstm20/kth.gif) -->
 
 ```
 @misc{su2020convolutional,
