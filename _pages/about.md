@@ -16,11 +16,6 @@ Research
 
 * Predictive Learning
 
-<!-- NVIDIA Research is hiring interns and full-time  -->
-<!-- News
-======
- * Sep. 2018, ECCV oral presentation [project page](https://wonmin-byeon.github.io/publication/2018-eccv)  -->
-
 Recent Projects
 ======
 * J Su*, <b>W Byeon*</b>, F Huang, J Kautz, A Anandkumar, ["Convolutional Tensor-Train LSTM for Spatio-temporal Learning"](https://wonmin-byeon.github.io/publication/2020-02-convttlstm), arXiv, 2020 <b> (*) equal contributions </b> 
