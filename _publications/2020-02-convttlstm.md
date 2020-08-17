@@ -15,7 +15,7 @@ Learning from spatio-temporal data has numerous applications such as human-behav
 ## Prediction Results
 ![](http://wonmin-byeon.github.io/files/result-convttlstm20/mnist.gif)
 
-## Prediction Results
+## Early Activity Recognition Results
 ![](http://wonmin-byeon.github.io/files/result-convttlstm20/early_activity_recognition_video1.gif)
 ![](http://wonmin-byeon.github.io/files/result-convttlstm20/early_activity_recognition_video2.gif)
 <!-- KTH
