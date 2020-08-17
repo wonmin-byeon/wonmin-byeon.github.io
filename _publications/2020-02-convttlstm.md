@@ -10,11 +10,14 @@ paperurl: 'https://arxiv.org/abs/2002.09131'
 [[paper]](https://arxiv.org/abs/2002.09131) &nbsp;[[code]](https://github.com/NVlabs/conv-tt-lstm) &nbsp;[[project page]](https://sites.google.com/nvidia.com/conv-tt-lstm) 
 
 ## Abstract
-Higher-order Recurrent Neural Networks (RNNs) are effective for long-term forecasting since such architectures can model higher-order correlations and long-term dynamics more effectively. However, higher-order models are expensive and require exponentially more parameters and operations compared with their first-order counterparts. This problem is particularly pronounced in multidimensional data such as videos. To address this issue, we propose Convolutional Tensor-Train Decomposition (CTTD), a novel tensor decomposition with convolutional operations. With CTTD, we construct Convolutional Tensor-Train LSTM (Conv-TT-LSTM) to capture higher-order space-time correlations in videos. We demonstrate that the proposed model outperforms the conventional (first-order) Convolutional LSTM (ConvLSTM) as well as the state-of-the-art ConvLSTM-based approaches in pixel-level video prediction tasks on Moving-MNIST and KTH action datasets, but with much fewer parameters.
+Learning from spatio-temporal data has numerous applications such as human-behavior analysis, object tracking, video compression, and physics simulation.However, existing methods still perform poorly on challenging video tasks suchas long-term forecasting. This is because these kinds of challenging tasks requirelearning long-term spatio-temporal correlations in the video sequence. In this paper, we propose a higher-order convolutional LSTM model that can efficientlylearn these correlations, along with a succinct representations of the history. This is accomplished through a novel tensor train module that performs prediction bycombining convolutional features across time. To make this feasible in terms ofcomputation and memory requirements, we propose a novel convolutional tensor-train decomposition of the higher-order model. This decomposition reduces themodel complexity by jointly approximating a sequence of convolutional kernels asa low-rank tensor-train factorization. As a result, our model outperforms existingapproaches, but uses only a fraction of parameters, including the baseline models.Our results achieve state-of-the-art performance in a wide range of applicationsand datasets, including the multi-steps video prediction on the Moving-MNIST-2and KTH action datasets as well as early activity recognition on the Something-Something V2 dataset.
 
 ## Prediction Results
 ![](http://wonmin-byeon.github.io/files/result-convttlstm20/mnist.gif)
 
+## Prediction Results
+![](http://wonmin-byeon.github.io/files/result-convttlstm20/early_activity_recognition_video1.gif)
+![](http://wonmin-byeon.github.io/files/result-convttlstm20/early_activity_recognition_video2.gif)
 <!-- KTH
 --
 ![](http://wonmin-byeon.github.io/files/result-convttlstm20/kth.gif) -->
