@@ -14,7 +14,6 @@ Research
 
 * High-Dimensional Sequence Learning, Spatio-Temporal Learning
 
-* Predictive Learning
 
 Recent Projects
 ======
