@@ -1,7 +1,7 @@
 ---
 title: "ContextVP: Fully Context-Aware Video Prediction"
 collection: publications
-permalink: /publication/2018-eccv
+permalink: /publication/2018-contextvp
 date: 2018-09-13
 venue: 'European Conference on Computer Vision (ECCV)'
 citation: '<b>W Byeon</b>, Q Wang, R K Srivastava, P Koumoutsakos <b>|</b> <i>ECCV 2018</i> '
