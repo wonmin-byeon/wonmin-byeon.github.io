@@ -13,6 +13,6 @@ author_profile: true
 
 2020
 ======
-{% for post in site.publications.2020 reversed %}
+{% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
