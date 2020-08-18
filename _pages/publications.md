@@ -11,6 +11,39 @@ author_profile: true
 
 {% include base_path %}
 
+2020
+======
+{% for post in site.publications.2020 reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+2019
+======
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+2018
+======
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+2017
+======
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+
+2016
+======
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+
+<!-- {% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+ -->
