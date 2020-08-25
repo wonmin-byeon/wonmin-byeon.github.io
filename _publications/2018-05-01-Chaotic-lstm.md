@@ -3,6 +3,7 @@ title: "Data-Driven Forecasting of High-Dimensional Chaotic Systems with Long Sh
 collection: publications
 permalink: /publication/2018-05-01-chaotic-lstm
 date: 2018-05-01
+year: '2018'
 venue: 'Proceedings of the Royal Society A: Mathematical, Physical & Engineering Sciences'
 citation: 'PR Vlachas, <b>W Byeon</b>, ZY Wan, TP Sapsis, P Koumoutsakos <b>|</b> <i>Proceedings of the Royal Society A: Mathematical, Physical & Engineering Sciences 2018</i> '
 paperurl: 'http://wonmin-byeon.github.io/files/18_PRSA.pdf'

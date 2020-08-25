@@ -3,6 +3,7 @@ title: "ContextVP: Fully Context-Aware Video Prediction"
 collection: publications
 permalink: /publication/2018-contextvp
 date: 2018-09-13
+year: '2018'
 venue: 'European Conference on Computer Vision (ECCV)'
 citation: '<b>W Byeon</b>, Q Wang, R K Srivastava, P Koumoutsakos <b>|</b> <i>ECCV 2018</i> '
 paperurl: 'http://openaccess.thecvf.com/content_ECCV_2018/papers/Wonmin_Byeon_ContextVP_Fully_Context-Aware_ECCV_2018_paper.pdf'
