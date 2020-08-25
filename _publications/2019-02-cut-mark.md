@@ -3,6 +3,7 @@ title: "Automated Identification and Deep Classification of Cut Marks on Bones a
 collection: publications
 permalink: /publication/2019-02-cut-mark
 date: 2019-03-01
+year: '2019'
 venue: 'Journal of Computational Science'
 citation: '<b>W Byeon</b>, M Domínguez-Rodrigo, G Arampatzis, E Baquedano, J Yravedra, M A Maté-González, P Koumoutsakos <b>|</b> <i>Journal of Computational Science 2019</i> '
 paperurl: 'https://www.cse-lab.ethz.ch/wp-content/papercite-data/pdf/byeon2019a.pdf'
