@@ -11,13 +11,14 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
 <h2>2020</h2>
 {% for post in site.publications reversed %}
   {% if post.year == '2020' %}
       {% include archive-single.html %}
   {% endif %}
 {% endfor %}
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
