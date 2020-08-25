@@ -40,6 +40,34 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
+<h2>2016</h2>
+{% for post in site.publications reversed %}
+  {% if post.year == '2016' %}
+      {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+<h2>2015</h2>
+{% for post in site.publications reversed %}
+  {% if post.year == '2015' %}
+      {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+<h2>2014</h2>
+{% for post in site.publications reversed %}
+  {% if post.year == '2014' %}
+      {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+<h2>2013</h2>
+{% for post in site.publications reversed %}
+  {% if post.year == '2013' %}
+      {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
 <!-- 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
