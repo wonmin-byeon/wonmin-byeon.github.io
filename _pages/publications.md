@@ -59,10 +59,3 @@ author_profile: true
       {% include archive-single.html %}
   {% endif %}
 {% endfor %}
-
-<!-- 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
- -->
-
