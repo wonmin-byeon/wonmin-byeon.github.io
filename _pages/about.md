@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+News
+======
+* We are hiring research interns for 2021. If you are a PhD student and have published papers at top conferences, send me an email with your CV!
+
 Research
 ======
 * Long Short-Term Memory (LSTM), Muiti-Dimensional LSTM
