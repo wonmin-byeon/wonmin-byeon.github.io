@@ -10,7 +10,7 @@ redirect_from:
 
 News
 ======
-* We are hiring research interns for 2021. If you are a PhD student and have published papers at top conferences, send me an email with your CV!
+* We are hiring research interns for 2021. If you are a PhD student and have published papers at top conferences, email me with your CV!
 
 Research
 ======
