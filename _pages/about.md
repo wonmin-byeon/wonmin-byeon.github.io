@@ -31,4 +31,3 @@ Recent Projects
 
 
 * PR Vlachas, <b>W Byeon</b>, ZY Wan, TP Sapsis, P Koumoutsakos, ["Data-Driven Forecasting of High-Dimensional Chaotic Systems with Long Short-Term Memory Networks"](https://wonmin-byeon.github.io/publication/2018-05-01-chaotic-lstm), Proceedings of the Royal Society A: Mathematical, Physical & Engineering Sciences. 2018
-
