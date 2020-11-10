@@ -6,7 +6,7 @@ date: 2020-02-21
 year: '2020'
 venue: 'Conference on Neural Information Processing Systems (NeurIPS)'
 citation: 'J Su*, <b>W Byeon*</b>, F Huang, J Kautz, A Anandkumar  <b> (*) equal contributions </b> <b>|</b> <i>NeurIPS 2020</i> '
-paperurl: 'https://arxiv.org/abs/2002.09131'
+paperurl: 'https://proceedings.neurips.cc/paper/2020/file/9e1a36515d6704d7eb7a30d783400e5d-Paper.pdf'
 ---
 [[paper]](https://arxiv.org/abs/2002.09131) &nbsp;[[code]](https://github.com/NVlabs/conv-tt-lstm) &nbsp;[[project page]](https://sites.google.com/nvidia.com/conv-tt-lstm) 
 
