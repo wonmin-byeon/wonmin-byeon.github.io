@@ -1,7 +1,7 @@
 ---
 title: "Convolutional Tensor-Train LSTM for Spatio-temporal Learning"
 collection: publications
-permalink: /publication/2020-02-convttlstm
+permalink: /publication/2020-convttlstm
 date: 2020-02-21
 year: '2020'
 venue: 'Conference on Neural Information Processing Systems (NeurIPS)'
