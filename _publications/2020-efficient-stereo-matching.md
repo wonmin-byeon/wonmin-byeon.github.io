@@ -5,7 +5,7 @@ permalink: /publication/2020-efficient-stereo-matching
 date: 2020-01-01
 year: '2020'
 venue: 'arXiv'
-citation: 'Y Zhong, C Loop, <b>W Byeon</b>, S Birchfield, Y Dai, K Zhang, A Kamenev, T Breuel, H Li, J Kautz <b>|</b> <i>NeurIPS 2020</i> '
+citation: 'Y Zhong, C Loop, <b>W Byeon</b>, S Birchfield, Y Dai, K Zhang, A Kamenev, T Breuel, H Li, J Kautz <b>|</b> <i>arXiv 2020</i> '
 paperurl: 'https://arxiv.org/pdf/2012.00899.pdf'
 ---
 [[paper]](https://arxiv.org/pdf/2012.00899.pdf) 
