@@ -10,8 +10,6 @@ redirect_from:
 
 News
 ======
-* We are releasing a new libariy for deep tensorized learning. Check out our website. [[website](http://tensorly.org/tensorly-torch/dev/)] [[github](https://github.com/tensorly/tensorly-torch)]
-
 * We are hiring research interns for 2021. If you are a PhD student and have published papers at top conferences, email me with your CV!
 
 Research
