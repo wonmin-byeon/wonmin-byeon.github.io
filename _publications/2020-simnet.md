@@ -2,7 +2,7 @@
 title: "NVIDIA SimNet: an AI-accelerated multi-physics simulation framework"
 collection: publications
 permalink: /publication/2020-simnet
-date: 2020-02-01
+date: 2020-01-01
 year: '2020'
 venue: 'arXiv'
 citation: 'Oliver Hennigh, Susheela Narasimhan, Mohammad Amin Nabian, Akshay Subramaniam, Kaustubh Tangsali, Max Rietmann, Jose del Aguila Ferrandis, <b>Wonmin Byeon</b>, Zhiwei Fang, Sanjay Choudhry <b>|</b> <i>arXiv 2020</i> '
