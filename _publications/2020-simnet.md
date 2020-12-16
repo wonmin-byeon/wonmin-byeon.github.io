@@ -1,5 +1,5 @@
 ---
-title: "NVIDIA SimNet^{TM}: an AI-accelerated multi-physics simulation framework"
+title: "NVIDIA SimNet: an AI-accelerated multi-physics simulation framework"
 collection: publications
 permalink: /publication/2020-simnet
 date: 2020-02-01
