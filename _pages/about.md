@@ -10,7 +10,7 @@ redirect_from:
 
 News
 ======
-* We release a tensor learning library for PyTorch users (<b>TensorLy-Torch</b>). Check out the website to learn more about how this can help with your deep learning model! [[website](http://tensorly.org/torch/dev/)] [[github](https://github.com/tensorly/torch)]
+* We release a tensor learning library for PyTorch users (<b>TensorLy-Torch</b>). Check out the website to learn how this can help with your deep learning models. [[website](http://tensorly.org/torch/dev/)] [[github](https://github.com/tensorly/torch)]
 
 * We are hiring research interns for 2021. If you are a PhD student and have published papers at top conferences, email me with your CV!
 
