@@ -24,7 +24,7 @@ Research
 
 Selected Projects
 ======
-* J Su*, <b>W Byeon*</b>, F Huang, J Kautz, A Anandkumar, ["Convolutional Tensor-Train LSTM for Spatio-temporal Learning"](https://wonmin-byeon.github.io/publication/2020-02-convttlstm), NeurIPS, 2020 <b> (*) equal contributions </b> 
+* J Su*, <b>W Byeon*</b>, F Huang, J Kautz, A Anandkumar, ["Convolutional Tensor-Train LSTM for Spatio-temporal Learning"](https://wonmin-byeon.github.io/publication/2020-convttlstm), NeurIPS, 2020 <b> (*) equal contributions </b> 
     - ECCV 2020 Tutorial on Accelerating Computer Vision with Mixed Precision. [[program]](https://nvlabs.github.io/eccv2020-mixed-precision-tutorial/) [[slides]](https://nvlabs.github.io/eccv2020-mixed-precision-tutorial/files/wonmin_byeon-mixed-precision-training-for-convolutional-tensor-train-lstm.pdf) [[video]](https://www.youtube.com/watch?v=1XuD-ozHTLY&feature=youtu.be)
     
 
