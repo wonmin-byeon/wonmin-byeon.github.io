@@ -1,7 +1,7 @@
 ---
 title: "Automated Identification and Deep Classification of Cut Marks on Bones and Its Paleoanthropological Implications"
 collection: publications
-permalink: /publication/2019-02-cut-mark
+permalink: /publication/2019-cut-mark
 date: 2019-03-01
 year: '2019'
 venue: 'Journal of Computational Science'
