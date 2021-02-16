@@ -12,15 +12,13 @@ News
 ======
 * We release a tensor learning library for PyTorch users (<b>TensorLy-Torch</b>). Check out the website to learn how this can help with your deep learning models. [[website](http://tensorly.org/torch/dev/)] [[github](https://github.com/tensorly/torch)]
 
-* We are hiring research interns for 2021. If you are a PhD student and have published papers at top conferences, email me with your CV!
-
 Research
 ======
 * Long Short-Term Memory (LSTM), Muiti-Dimensional LSTM
 
 * High-Dimensional Sequence Learning, Spatio-Temporal Learning
 
-* Predictive Learning
+* Predictive Learning, Lifelong Learning
 
 Selected Projects
 ======
