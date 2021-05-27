@@ -5,7 +5,7 @@ permalink: /publication/2021-gaze-cvpr21
 date: 2021-05-20
 year: '2021'
 venue: 'Conference on Computer Vision and Pattern Recognition (CVPR)'
-citation: 'Rakshit Kothari, Shalini De Mello, Umar Iqbal, <b>Wonmin Byeon</b>, Seonwook Park, Jan Kautz <b>|</b> <i>arXiv 2020</i> '
+citation: 'Rakshit Kothari, Shalini De Mello, Umar Iqbal, <b>Wonmin Byeon</b>, Seonwook Park, Jan Kautz <b>|</b> <i>CVPR 2021 (oral)</i> '
 paperurl: 'https://arxiv.org/pdf/2105.09803.pdf'
 ---
 [[paper]](https://arxiv.org/pdf/2105.09803.pdf) 

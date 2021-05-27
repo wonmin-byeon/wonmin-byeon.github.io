@@ -5,7 +5,7 @@ permalink: /publication/2018-contextvp
 date: 2018-09-13
 year: '2018'
 venue: 'European Conference on Computer Vision (ECCV)'
-citation: '<b>W Byeon</b>, Q Wang, R K Srivastava, P Koumoutsakos <b>|</b> <i>ECCV 2018</i> '
+citation: '<b>W Byeon</b>, Q Wang, R K Srivastava, P Koumoutsakos <b>|</b> <i>ECCV 2018 (oral)</i> '
 paperurl: 'http://openaccess.thecvf.com/content_ECCV_2018/papers/Wonmin_Byeon_ContextVP_Fully_Context-Aware_ECCV_2018_paper.pdf'
 ---
 [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Wonmin_Byeon_ContextVP_Fully_Context-Aware_ECCV_2018_paper.pdf) &nbsp;[[slides]](http://wonmin-byeon.github.io/files/byeon-contextvp-eccv18-oral.pdf) &nbsp;[[video]](https://www.youtube.com/watch?time_continue=431&v=9ncoStGl4VA)
