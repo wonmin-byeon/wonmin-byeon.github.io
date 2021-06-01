@@ -61,10 +61,11 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
-<h2>2013</h2>
+<!-- <h2>2013</h2>
 {% for post in site.publications reversed %}
   {% if post.year == '2013' %}
       {% include archive-single.html %}
   {% endif %}
 {% endfor %}
 
+ -->
