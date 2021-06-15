@@ -8,7 +8,7 @@ venue: 'European Conference on Computer Vision (ECCV)'
 citation: '<b>W Byeon</b>, Q Wang, R K Srivastava, P Koumoutsakos <b>|</b> <i>ECCV 2018 (oral)</i> '
 paperurl: 'http://openaccess.thecvf.com/content_ECCV_2018/papers/Wonmin_Byeon_ContextVP_Fully_Context-Aware_ECCV_2018_paper.pdf'
 ---
-[[paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Wonmin_Byeon_ContextVP_Fully_Context-Aware_ECCV_2018_paper.pdf) &nbsp;[[slides]](http://wonmin-byeon.github.io/files/byeon-contextvp-eccv18-oral.pdf) &nbsp;[[video]](https://www.youtube.com/watch?time_continue=431&v=9ncoStGl4VA)
+[[arxiv]](https://arxiv.org/abs/1710.08518) &nbsp;[[paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Wonmin_Byeon_ContextVP_Fully_Context-Aware_ECCV_2018_paper.pdf) &nbsp;[[slides]](http://wonmin-byeon.github.io/files/byeon-contextvp-eccv18-oral.pdf) &nbsp;[[video]](https://www.youtube.com/watch?time_continue=431&v=9ncoStGl4VA)
 
 * ECCV oral presentation, Sep. 2018. [[slides]](http://wonmin-byeon.github.io/files/byeon-contextvp-eccv18-oral.pdf) [[talk]](https://www.youtube.com/watch?time_continue=431&v=9ncoStGl4VA)
 
