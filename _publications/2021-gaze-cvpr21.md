@@ -25,4 +25,3 @@ A major challenge for physically unconstrained gaze estimation is acquiring trai
       primaryClass={cs.CV}
 }
 ```
-
