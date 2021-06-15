@@ -24,7 +24,7 @@ Video prediction models based on convolutional networks,recurrent networks, and 
 ![](http://wonmin-byeon.github.io/files/result-contextvp18/eccv-3.gif)
 ![](http://wonmin-byeon.github.io/files/result-contextvp18/eccv-1.gif)
 
-```
+```bib
 @inproceedings{byeon2018contextvp,
   title={ContextVP: Fully Context-Aware Video Prediction},
   author={Byeon, Wonmin and Wang, Qin and Srivastava, Rupesh Kumar and Koumoutsakos, Petros},

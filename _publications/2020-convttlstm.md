@@ -25,7 +25,7 @@ Learning from spatio-temporal data has numerous applications such as human-behav
 --
 ![](http://wonmin-byeon.github.io/files/result-convttlstm20/kth.gif) -->
 
-```
+```bib
 @misc{su2020convolutional,
     title={Convolutional Tensor-Train LSTM for Spatio-temporal Learning},
     author={Jiahao Su and Wonmin Byeon and Furong Huang and Jan Kautz and Animashree Anandkumar},
