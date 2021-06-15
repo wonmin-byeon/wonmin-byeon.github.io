@@ -15,7 +15,7 @@ A major challenge for physically unconstrained gaze estimation is acquiring trai
 
 
 
-```
+```json
 @misc{kothari2021weaklysupervised,
       title={Weakly-Supervised Physically Unconstrained Gaze Estimation}, 
       author={Rakshit Kothari and Shalini De Mello and Umar Iqbal and Wonmin Byeon and Seonwook Park and Jan Kautz},
