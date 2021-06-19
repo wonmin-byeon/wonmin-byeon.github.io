@@ -19,6 +19,8 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
+-----------------------------------------
+
 <h2>2020</h2>
 {% for post in site.publications reversed %}
   {% if post.year == '2020' %}
