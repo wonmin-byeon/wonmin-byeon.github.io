@@ -24,7 +24,7 @@ Research
 
 Selected Projects
 ======
-* B Wu, O Hennigh, J Kautz, S Choudhry, <b>W Byeon</b>, Jan Kautz, ["Physics Informed RNN-DCT Networks for Time-Dependent Partial Differential Equations"](https://wonmin-byeon.github.io/publication/2021-rnndct), Workshop: ML and the Physical Science at NeurIPS 2021
+* B Wu, O Hennigh, J Kautz, S Choudhry, <b>W Byeon</b>, ["Physics Informed RNN-DCT Networks for Time-Dependent Partial Differential Equations"](https://wonmin-byeon.github.io/publication/2021-rnndct), Workshop: ML and the Physical Science at NeurIPS 2021
 
 * J Su, <b>W Byeon</b>, F Huang, ["Scaling-up Diverse Orthogonal Convolutional Networks with a Paraunitary Framework"](https://wonmin-byeon.github.io/publication/2021-orthoNN), arXiv, 2021
 
