@@ -14,7 +14,7 @@ News
 
 * We release a tensor learning library for PyTorch users (<b>TensorLy-Torch</b>). Check out the website to learn how this can help with your deep learning models. [[website](http://tensorly.org/torch/dev/)] [[github](https://github.com/tensorly/torch)]
 
-Research
+Research Interests
 ======
 * Recurrent Neural Network (RNN), Muiti-Dimensional LSTM
 
