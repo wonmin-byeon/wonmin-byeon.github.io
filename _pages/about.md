@@ -39,5 +39,4 @@ Selected Projects
     - ECCV 2018 oral presentation. [[slides]](http://wonmin-byeon.github.io/files/byeon-contextvp-eccv18-oral.pdf) [[talk]](https://www.youtube.com/watch?time_continue=431&v=9ncoStGl4VA)
 
 
-<!-- * PR Vlachas, <b>W Byeon</b>, ZY Wan, TP Sapsis, P Koumoutsakos, ["Data-Driven Forecasting of High-Dimensional Chaotic Systems with Long Short-Term Memory Networks"](https://wonmin-byeon.github.io/publication/2018-05-01-chaotic-lstm), Proceedings of the Royal Society A: Mathematical, Physical & Engineering Sciences. 2018
- -->
+* PR Vlachas, <b>W Byeon</b>, ZY Wan, TP Sapsis, P Koumoutsakos, ["Data-Driven Forecasting of High-Dimensional Chaotic Systems with Long Short-Term Memory Networks"](https://wonmin-byeon.github.io/publication/2018-05-01-chaotic-lstm), Proceedings of the Royal Society A: Mathematical, Physical & Engineering Sciences. 2018
