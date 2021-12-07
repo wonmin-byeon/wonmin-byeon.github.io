@@ -14,7 +14,7 @@ News
 
 Research
 ======
-* Recurrent Neural Network (RNN), Long Short-Term Memory (LSTM), Muiti-Dimensional LSTM
+* Recurrent Neural Network (RNN), Muiti-Dimensional LSTM
 
 * Multi-Dimensional Sequence Learning, Spatio-Temporal Learning
 
