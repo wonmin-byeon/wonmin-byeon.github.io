@@ -5,7 +5,7 @@ permalink: /publication/2021-rnndct
 date: 2021-12-13
 year: '2021'
 venue: 'Conference on Neural Information Processing Systems (NeurIPS)'
-citation: 'Benjamin Wu · Oliver Hennigh · Jan Kautz · Sanjay Choudhry · <b>Wonmin Byeon</b>, Jan Kautz <b>|</b> <i>Workshop: ML and the Physical Science at NeurIPS 2021</i> '
+citation: 'Benjamin Wu · Oliver Hennigh · Jan Kautz · Sanjay Choudhry · <b>Wonmin Byeon</b> <b>|</b> <i>Workshop: ML and the Physical Science at NeurIPS 2021</i> '
 paperurl: ''
 ---
 <!-- [[paper]](https://openreview.net/forum?id=vRwnHlAgK5x) -->
