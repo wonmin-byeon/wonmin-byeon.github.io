@@ -6,9 +6,10 @@ date: 2021-12-13
 year: '2021'
 venue: 'Conference on Neural Information Processing Systems (NeurIPS)'
 citation: 'Benjamin Wu · Oliver Hennigh · Jan Kautz · Sanjay Choudhry · <b>Wonmin Byeon</b> <b>|</b> <i>Workshop: ML and the Physical Science at NeurIPS 2021</i> '
-paperurl: ''
+paperurl: 'https://ml4physicalsciences.github.io/2021/files/NeurIPS_ML4PS_2021_121.pdf'
 ---
-<!-- [[paper]](https://openreview.net/forum?id=vRwnHlAgK5x) -->
+[[paper]](https://ml4physicalsciences.github.io/2021/files/NeurIPS_ML4PS_2021_121.pdf) &nbsp;
+[[poster]](https://ml4physicalsciences.github.io/2021/files/NeurIPS_ML4PS_2021_121_poster.png) &nbsp;
 [[workshop page]](https://ml4physicalsciences.github.io/2021/)
 
 
