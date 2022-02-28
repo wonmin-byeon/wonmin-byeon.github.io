@@ -17,3 +17,14 @@ paperurl: 'https://ml4physicalsciences.github.io/2021/files/NeurIPS_ML4PS_2021_1
 ## Abstract
 Physics-informed neural networks allow models to be trained by physical laws described by general nonlinear partial differential equations. However, traditional architectures struggle to solve more challenging time-dependent problems. In this work, we present a novel physics-informed framework for solving time-dependent partial differential equations. Our proposed model utilizes discrete cosine transforms to encode spatial frequencies and recurrent neural networks to process the time evolution, achieving state-of-the-art performance on the Taylor-Green vortex relative to other physics-informed baseline models. 
 
+
+```bib
+@misc{wu2022physics,
+      title={Physics Informed RNN-DCT Networks for Time-Dependent Partial Differential Equations}, 
+      author={Benjamin Wu and Oliver Hennigh and Jan Kautz and Sanjay Choudhry and Wonmin Byeon},
+      year={2022},
+      eprint={2202.12358},
+      archivePrefix={arXiv},
+      primaryClass={physics.comp-ph}
+}
+```
