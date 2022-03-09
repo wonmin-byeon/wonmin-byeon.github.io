@@ -20,9 +20,7 @@ Research Interests
 
 * Multi-Dimensional Sequence Learning, Spatio-Temporal Learning
 
-* Predictive Learning
-
-* Few-shot Learning, Lifelong Learning
+* Predictive Learning, Few-shot Learning, Lifelong Learning
 
 Selected Projects
 ======
