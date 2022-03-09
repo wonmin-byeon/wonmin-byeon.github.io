@@ -8,7 +8,11 @@ venue: 'Conference on Neural Information Processing Systems (NeurIPS)'
 citation: 'J Su*, <b>W Byeon*</b>, F Huang, J Kautz, A Anandkumar  <b> (*) equal contributions </b> <b>|</b> <i>NeurIPS 2020</i> '
 paperurl: 'https://proceedings.neurips.cc/paper/2020/file/9e1a36515d6704d7eb7a30d783400e5d-Paper.pdf'
 ---
-[[arxiv]](https://arxiv.org/abs/2002.09131) &nbsp;[[paper]](https://proceedings.neurips.cc/paper/2020/file/9e1a36515d6704d7eb7a30d783400e5d-Paper.pdf) &nbsp;[[Supp]](https://proceedings.neurips.cc/paper/2020/file/9e1a36515d6704d7eb7a30d783400e5d-Supplemental.pdf) &nbsp;[[code]](https://github.com/NVlabs/conv-tt-lstm) &nbsp;[[project page]](https://sites.google.com/nvidia.com/conv-tt-lstm) 
+[[arxiv]](https://arxiv.org/abs/2002.09131) &nbsp;
+[[paper]](https://proceedings.neurips.cc/paper/2020/file/9e1a36515d6704d7eb7a30d783400e5d-Paper.pdf) &nbsp;
+[[Supp]](https://proceedings.neurips.cc/paper/2020/file/9e1a36515d6704d7eb7a30d783400e5d-Supplemental.pdf) &nbsp;
+[[code]](https://github.com/NVlabs/conv-tt-lstm) &nbsp;
+[[project page]](https://sites.google.com/nvidia.com/conv-tt-lstm) 
 
 * ECCV 2020 Tutorial on Accelerating Computer Vision with Mixed Precision, August 2020. [[program]](https://nvlabs.github.io/eccv2020-mixed-precision-tutorial/) [[slides]](https://nvlabs.github.io/eccv2020-mixed-precision-tutorial/files/wonmin_byeon-mixed-precision-training-for-convolutional-tensor-train-lstm.pdf) [[video]](https://www.youtube.com/watch?v=1XuD-ozHTLY&feature=youtu.be)
 
