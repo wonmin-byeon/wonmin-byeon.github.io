@@ -10,6 +10,8 @@ redirect_from:
 
 News
 ======
+* [[2 papers](https://wonmin-byeon.github.io/publications/)] accepted to CVPR 2022 .
+
 * We are hiring research interns for 2022! 
 
 * We release a tensor learning library for PyTorch users (<b>TensorLy-Torch</b>). Check out the website to learn how this can help with your deep learning models. [[website](http://tensorly.org/torch/dev/)] [[github](https://github.com/tensorly/torch)]
