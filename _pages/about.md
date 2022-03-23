@@ -10,7 +10,7 @@ redirect_from:
 
 News
 ======
-* [2 papers](https://wonmin-byeon.github.io/publications/) accepted to CVPR 2022.
+* [2 papers](https://wonmin-byeon.github.io/publications/) accepted to CVPR 2022. [1 paper](https://wonmin-byeon.github.io/publications/2022-rnndct) accepted to ICCS 2022.
 
 * We are hiring research interns for 2022! 
 
