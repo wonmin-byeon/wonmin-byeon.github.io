@@ -26,18 +26,14 @@ Research Interests
 
 Selected Projects
 ======
-* B Wu*, O Hennigh, J Kautz, S Choudhry, <b>W Byeon*</b>, ["Physics Informed RNN-DCT Networks for Time-Dependent Partial Differential Equations"](https://wonmin-byeon.github.io/publication/2021-rnndct), Workshop: ML and the Physical Science at NeurIPS 2021 <b> (*) equal contributions </b>
+* B Wu*, O Hennigh, J Kautz, S Choudhry, <b>W Byeon*</b>, ["Physics Informed RNN-DCT Networks for Time-Dependent Partial Differential Equations"](https://wonmin-byeon.github.io/publication/2021-rnndct), ICCS 2022, NeurIPS'21 Workshop on ML and the Physical Science <b> (*) equal contributions </b>
 
 * J Su, <b>W Byeon</b>, F Huang, ["Scaling-up Diverse Orthogonal Convolutional Networks with a Paraunitary Framework"](https://wonmin-byeon.github.io/publication/2021-orthoNN), arXiv, 2021
 
-* J Su*, <b>W Byeon*</b>, F Huang, J Kautz, A Anandkumar, ["Convolutional Tensor-Train LSTM for Spatio-temporal Learning"](https://wonmin-byeon.github.io/publication/2020-convttlstm), NeurIPS, 2020 <b> (*) equal contributions </b> 
+* J Su*, <b>W Byeon*</b>, F Huang, J Kautz, A Anandkumar, ["Convolutional Tensor-Train LSTM for Spatio-temporal Learning"](https://wonmin-byeon.github.io/publication/2020-convttlstm), NeurIPS 2020, ECCV'20 Tutorial on Accelerating Computer Vision with Mixed Precision. <b> (*) equal contributions </b> 
     - [[Project page]](https://sites.google.com/nvidia.com/conv-tt-lstm)
-    - ECCV 2020 Tutorial on Accelerating Computer Vision with Mixed Precision. [[program]](https://nvlabs.github.io/eccv2020-mixed-precision-tutorial/) [[slides]](https://nvlabs.github.io/eccv2020-mixed-precision-tutorial/files/wonmin_byeon-mixed-precision-training-for-convolutional-tensor-train-lstm.pdf) [[video]](https://www.youtube.com/watch?v=1XuD-ozHTLY&feature=youtu.be)
     
-
-* <b>W Byeon</b>, Q Wang, R K Srivastava, P Koumoutsakos, ["ContextVP: Fully Context-Aware Video Prediction"](https://wonmin-byeon.github.io/publication/2018-contextvp), ECCV, 2018 
-    - ECCV 2018 oral presentation. [[slides]](http://wonmin-byeon.github.io/files/byeon-contextvp-eccv18-oral.pdf) [[talk]](https://www.youtube.com/watch?time_continue=431&v=9ncoStGl4VA)
-
+* <b>W Byeon</b>, Q Wang, R K Srivastava, P Koumoutsakos, ["ContextVP: Fully Context-Aware Video Prediction"](https://wonmin-byeon.github.io/publication/2018-contextvp), ECCV, 2018 (oral)
 
 * PR Vlachas, <b>W Byeon</b>, ZY Wan, TP Sapsis, P Koumoutsakos, ["Data-Driven Forecasting of High-Dimensional Chaotic Systems with Long Short-Term Memory Networks"](https://wonmin-byeon.github.io/publication/2018-05-01-chaotic-lstm), Proceedings of the Royal Society A: Mathematical, Physical & Engineering Sciences. 2018
 
