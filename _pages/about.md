@@ -30,7 +30,7 @@ Selected Projects
 * J Su, <b>W Byeon</b>, F Huang, ["Scaling-up Diverse Orthogonal Convolutional Networks with a Paraunitary Framework"](https://wonmin-byeon.github.io/publication/2022-orthoNN), ICML, 2022
 
 * B Wu*, O Hennigh, J Kautz, S Choudhry, <b>W Byeon*</b>, ["Physics Informed RNN-DCT Networks for Time-Dependent Partial Differential Equations"](https://wonmin-byeon.github.io/publication/2022-rnndct), ICCS 2022 <b> (*) equal contributions </b>
-    - NeurIPS'21 Workshop on ML and the Physical Science
+    - Presented at NeurIPS'21 Workshop on ML and the Physical Science
 
 
 * J Su*, <b>W Byeon*</b>, F Huang, J Kautz, A Anandkumar, ["Convolutional Tensor-Train LSTM for Spatio-temporal Learning"](https://wonmin-byeon.github.io/publication/2020-convttlstm), NeurIPS 2020 <b> (*) equal contributions </b> 
