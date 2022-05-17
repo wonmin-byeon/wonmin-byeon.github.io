@@ -34,8 +34,7 @@ Selected Projects
 
 
 * J Su*, <b>W Byeon*</b>, F Huang, J Kautz, A Anandkumar, ["Convolutional Tensor-Train LSTM for Spatio-temporal Learning"](https://wonmin-byeon.github.io/publication/2020-convttlstm), NeurIPS 2020 <b> (*) equal contributions </b> 
-    - [[Project page]](https://sites.google.com/nvidia.com/conv-tt-lstm)
-    - ECCV'20 Tutorial on Accelerating Computer Vision with Mixed Precision.
+    - Presented at ECCV'20 Tutorial on Accelerating Computer Vision with Mixed Precision. 
     
 * <b>W Byeon</b>, Q Wang, R K Srivastava, P Koumoutsakos, ["ContextVP: Fully Context-Aware Video Prediction"](https://wonmin-byeon.github.io/publication/2018-contextvp), ECCV 2018 (oral)
 
