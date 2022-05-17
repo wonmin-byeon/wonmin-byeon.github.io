@@ -1,7 +1,7 @@
 ---
 title: "Scaling-up Diverse Orthogonal Convolutional Networks with a Paraunitary Framework"
 collection: publications
-permalink: /publication/2021-orthoNN
+permalink: /publication/2022-orthoNN
 date: 2022-07-01
 year: '2022'
 venue: 'ICML'
