@@ -5,7 +5,7 @@ permalink: /publication/2022-rnndct
 date: 2022-03-23
 year: '2022'
 venue: 'ICCS'
-citation: 'Benjamin Wu* · Oliver Hennigh · Jan Kautz · Sanjay Choudhry · <b>Wonmin Byeon*</b> <b> (*) equal contributions </b> <b>|</b> <i>ICCS 2022</i> '
+citation: 'Benjamin Wu* · Oliver Hennigh · Jan Kautz · Sanjay Choudhry · <b>Wonmin Byeon*</b> <b>|</b> <b> (*) equal contributions </b> <b>|</b> <i>ICCS 2022</i> '
 paperurl: 'https://ml4physicalsciences.github.io/2021/files/NeurIPS_ML4PS_2021_121.pdf'
 ---
 [[arxiv]](https://arxiv.org/abs/2202.12358) &nbsp;
