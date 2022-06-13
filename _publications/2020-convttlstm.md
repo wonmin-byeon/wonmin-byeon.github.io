@@ -5,7 +5,7 @@ permalink: /publication/2020-convttlstm
 date: 2020-02-21
 year: '2020'
 venue: 'Conference on Neural Information Processing Systems (NeurIPS)'
-citation: 'J Su*, <b>W Byeon*</b>, F Huang, J Kautz, A Anandkumar  <b> (*) equal contributions </b> <b>|</b> <i>NeurIPS 2020</i> '
+citation: 'J Su*, <b>W Byeon*</b>, F Huang, J Kautz, A Anandkumar <b>|</b> <b> (*) equal contributions </b> <b>|</b> <i>NeurIPS 2020</i> '
 paperurl: 'https://proceedings.neurips.cc/paper/2020/file/9e1a36515d6704d7eb7a30d783400e5d-Paper.pdf'
 ---
 [[arxiv]](https://arxiv.org/abs/2002.09131) &nbsp;
