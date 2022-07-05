@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/2022-soundvideo
 date: 2022-04-20
 year: '2022'
-venue: 'arXiv'
-citation: 'Seung Hyun Lee, Gyeongrok Oh, <b>Wonmin Byeon</b>, Jihyun Bae, Chanyoung Kim, Won Jeong Ryoo, Sang Ho Yoon, Jinkyu Kim, Sangpil Kim <b>|</b> <i>arXiv</i> '
+venue: 'ECCV 2022'
+citation: 'Seung Hyun Lee, Gyeongrok Oh, <b>Wonmin Byeon</b>, Jihyun Bae, Chanyoung Kim, Won Jeong Ryoo, Sang Ho Yoon, Jinkyu Kim, Sangpil Kim <b>|</b> <i>ECCV 2022</i> '
 paperurl: 'https://arxiv.org/pdf/2112.00007.pdf'
 ---
 [[arxiv]](https://arxiv.org/abs/2204.09273)&nbsp;
