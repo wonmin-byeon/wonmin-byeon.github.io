@@ -11,9 +11,7 @@ redirect_from:
 News
 ======
 
-* [1 paper](https://wonmin-byeon.github.io/publication/2022-soundvideo) accepted to ECCV 2022.
-
-* [1 paper](https://wonmin-byeon.github.io/publication/2022-orthoNN) accepted to ICML 2022.
+* [1 paper](https://wonmin-byeon.github.io/publication/2022-orthoNN) accepted to ICML 2022. [1 paper](https://wonmin-byeon.github.io/publication/2022-soundvideo) accepted to ECCV 2022.
 
 * [2 papers](https://wonmin-byeon.github.io/publications/) accepted to CVPR 2022. [1 paper](https://wonmin-byeon.github.io/publication/2022-rnndct) accepted to ICCS 2022.
 
