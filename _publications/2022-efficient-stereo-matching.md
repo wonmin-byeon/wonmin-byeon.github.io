@@ -8,7 +8,7 @@ venue: 'IJCV'
 citation: '    Yiran Zhong, Charles Loop, <b>Wonmin Byeon</b>, Stan Birchfield, Yuchao Dai, Kaihao Zhang, Alexey Kamenev, Thomas Breuel, Hongdong Li, Jan Kautz  <b>|</b> <i>IJCV 2022</i> '
 paperurl: 'https://trebuchet.public.springernature.app/get_content/2067b03b-27d9-4f29-a55e-75f3fb3b6c28'
 ---
-[[paper]](https://trebuchet.public.springernature.app/get_content/2067b03b-27d9-4f29-a55e-75f3fb3b6c28) &nbsp;
+[[paper]](https://link.springer.com/content/pdf/10.1007/s11263-022-01595-8.pdf) &nbsp;
 [[arxiv]](https://arxiv.org/abs/2012.00899) &nbsp;
 
 ## Abstract
