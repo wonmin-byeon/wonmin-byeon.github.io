@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2021-soundimage
 date: 2021-12-01
 year: '2022'
-venue: 'arXiv'
+venue: 'CVPR'
 citation: 'Seung Hyun Lee, Wonseok Roh, <b>Wonmin Byeon</b>, Sang Ho Yoon, Chan Young Kim, Jinkyu Kim, Sangpil Kim <b>|</b> <i>CVPR 2022</i> '
 paperurl: 'https://arxiv.org/pdf/2112.00007.pdf'
 ---
