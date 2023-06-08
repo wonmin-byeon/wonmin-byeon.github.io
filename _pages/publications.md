@@ -13,7 +13,7 @@ author_profile: true
 
 <h2>2023</h2>
 {% for post in site.publications reversed %}
-  {% if post.year == '2022' %}
+  {% if post.year == '2023' %}
       {% include archive-single.html %}
   {% endif %}
 {% endfor %}
