@@ -20,7 +20,7 @@ News
 
 Research Interests
 ======
-* Recurrent Neural Network (RNN), Muiti-Dimensional LSTM
+* Recurrent Neural Network (RNN), State-Space Models (SSM)
 
 * Multi-Dimensional Sequence Learning, Spatio-Temporal Learning
 
