@@ -14,7 +14,7 @@ paperurl: 'https://ml4physicalsciences.github.io/2021/files/NeurIPS_ML4PS_2021_1
 [[paper]](https://ml4physicalsciences.github.io/2021/files/NeurIPS_ML4PS_2021_121.pdf) &nbsp;
 [[poster]](https://ml4physicalsciences.github.io/2021/files/NeurIPS_ML4PS_2021_121_poster.png) &nbsp;
 
-* This model is released as a part of [NVIDIA Modulus](https://developer.nvidia.com/modulus). &nbsp;
+* This model is released as part of [NVIDIA Modulus](https://developer.nvidia.com/modulus). &nbsp;
  [[blog]](https://developer.nvidia.com/blog/develop-physics-informed-machine-learning-models-with-graph-neural-networks/) &nbsp; [[repo]](https://github.com/NVIDIA/modulus).
 
 ## Abstract
