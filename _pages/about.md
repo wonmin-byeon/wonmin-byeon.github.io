@@ -32,6 +32,7 @@ Selected Projects
 
 * B Wu*, O Hennigh, J Kautz, S Choudhry, <b>W Byeon*</b>, ["Physics Informed RNN-DCT Networks for Time-Dependent Partial Differential Equations"](https://wonmin-byeon.github.io/publication/2022-rnndct), ICCS 2022 <b> (*) equal contributions </b>
     - Presented at NeurIPS'21 Workshop on ML and the Physical Science
+    - Released as a part of [NVIDIA Mudulus](https://developer.nvidia.com/modulus)
 
 
 * J Su*, <b>W Byeon*</b>, F Huang, J Kautz, A Anandkumar, ["Convolutional Tensor-Train LSTM for Spatio-temporal Learning"](https://wonmin-byeon.github.io/publication/2020-convttlstm), NeurIPS 2020 <b> (*) equal contributions </b> 
