@@ -11,7 +11,7 @@ redirect_from:
 News
 ======
 
-* [1 paper](https://wonmin-byeon.github.io/publications/2023-PowerofSound) accepted to ICCV 2023.
+* [1 paper](https://wonmin-byeon.github.io/publication/2023-PowerofSound) accepted to ICCV 2023.
 
 * [2 papers](https://wonmin-byeon.github.io/publications/) accepted to CVPR 2023.
 
