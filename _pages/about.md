@@ -15,7 +15,7 @@ News
 
 * [2 papers](https://wonmin-byeon.github.io/publications/) accepted to CVPR 2023.
 
-* Our paper ["Physics Informed RNN-DCT Networks for Time-Dependent Partial Differential Equations"](https://wonmin-byeon.github.io/publication/2022-rnndct) is now in [NVIDIA Modulus](https://developer.nvidia.com/modulus)! Check out [technical blog](https://developer.nvidia.com/blog/develop-physics-informed-machine-learning-models-with-graph-neural-networks/) and [Modulus repo](https://github.com/NVIDIA/modulus).
+* Our paper ["Physics Informed RNN-DCT Networks for Time-Dependent Partial Differential Equations"](https://wonmin-byeon.github.io/publication/2022-rnndct) is now in [NVIDIA Modulus](https://developer.nvidia.com/modulus)! Check out [technical blog](https://developer.nvidia.com/blog/develop-physics-informed-machine-learning-models-with-graph-neural-networks/) and [Modulus repo](https://github.com/NVIDIA/modulus/tree/main/modulus/models/rnn).
 
 Research Interests
 ======
