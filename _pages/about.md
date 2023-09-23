@@ -11,18 +11,17 @@ redirect_from:
 News
 ======
 
+* [1 paper](https://wonmin-byeon.github.io/publications/2023-PowerofSound) accepted to ICCV 2023.
+
 * [2 papers](https://wonmin-byeon.github.io/publications/) accepted to CVPR 2023.
 
 * Our paper ["Physics Informed RNN-DCT Networks for Time-Dependent Partial Differential Equations"](https://wonmin-byeon.github.io/publication/2022-rnndct) is now in [NVIDIA Modulus](https://developer.nvidia.com/modulus)! Check out [technical blog](https://developer.nvidia.com/blog/develop-physics-informed-machine-learning-models-with-graph-neural-networks/) and [Modulus repo](https://github.com/NVIDIA/modulus).
-
-* [1 paper](https://wonmin-byeon.github.io/publication/2022-orthoNN) accepted to ICML 2022. [1 paper](https://wonmin-byeon.github.io/publication/2022-soundvideo) accepted to ECCV 2022.
-
 
 Research Interests
 ======
 * Recurrent Neural Network (RNN), State-Space Models (SSM)
 
-* Multi-Dimensional Sequence Learning, Spatio-Temporal Learning
+* Spatio-Temporal Learning, Multi-Dimensional Sequence Learning
 
 * Predictive Learning, Few-shot Learning, Lifelong Learning
 
@@ -37,6 +36,6 @@ Selected Projects
 * J Su*, <b>W Byeon*</b>, F Huang, J Kautz, A Anandkumar, ["Convolutional Tensor-Train LSTM for Spatio-temporal Learning"](https://wonmin-byeon.github.io/publication/2020-convttlstm), NeurIPS 2020 <b> (*) equal contributions </b> 
     - Presented at ECCV'20 Tutorial on Accelerating Computer Vision with Mixed Precision. 
     
-* <b>W Byeon</b>, Q Wang, R K Srivastava, P Koumoutsakos, ["ContextVP: Fully Context-Aware Video Prediction"](https://wonmin-byeon.github.io/publication/2018-contextvp), ECCV 2018 (oral)
+<!-- * <b>W Byeon</b>, Q Wang, R K Srivastava, P Koumoutsakos, ["ContextVP: Fully Context-Aware Video Prediction"](https://wonmin-byeon.github.io/publication/2018-contextvp), ECCV 2018 (oral) -->
 
 <!-- * PR Vlachas, <b>W Byeon</b>, ZY Wan, TP Sapsis, P Koumoutsakos, ["Data-Driven Forecasting of High-Dimensional Chaotic Systems with Long Short-Term Memory Networks"](https://wonmin-byeon.github.io/publication/2018-05-01-chaotic-lstm), Proceedings of the Royal Society A: Mathematical, Physical & Engineering Sciences. 2018 -->
