@@ -27,6 +27,8 @@ Research Interests
 
 Selected Projects
 ======
+* J T.H. Smith, S De Mello, J Kautz, S W. Linderman, <b>W Byeon</b>, ["Convolutional State Space Models for Long-Range Spatiotemporal Modeling"](https://wonmin-byeon.github.io/publication/2023-convssm), NeurIPS, 2023
+
 * J Su, <b>W Byeon</b>, F Huang, ["Scaling-up Diverse Orthogonal Convolutional Networks with a Paraunitary Framework"](https://wonmin-byeon.github.io/publication/2022-orthoNN), ICML, 2022
 
 * B Wu*, O Hennigh, J Kautz, S Choudhry, <b>W Byeon*</b>, ["Physics Informed RNN-DCT Networks for Time-Dependent Partial Differential Equations"](https://wonmin-byeon.github.io/publication/2022-rnndct), ICCS 2022 <b> (*) equal contributions </b>
