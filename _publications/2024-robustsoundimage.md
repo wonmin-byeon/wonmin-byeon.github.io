@@ -9,7 +9,7 @@ citation: 'Seung Hyun Lee, Chanyoung Kim, <b> Wonmin Byeon </b>, Gyeongrok Oh, J
 paperurl: 'https://arxiv.org/pdf/2112.00007.pdf'
 ---
 [[arxiv]](https://arxiv.org/abs/2208.14114)&nbsp;
-[[Journal]](https://doi.org/10.1016/j.neunet.2024.106271)&nbsp;
+[[paper]](https://doi.org/10.1016/j.neunet.2024.106271)&nbsp;
 <!-- [[project page]](https://kuai-lab.github.io/cvpr2022sound/)  -->
 
 

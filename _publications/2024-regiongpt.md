@@ -2,7 +2,7 @@
 title: "RegionGPT: Towards Region Understanding Vision Language Model"
 collection: publications
 permalink: /publication/2024-regiongpt
-date: 2024-03-01
+date: 2024-04-01
 year: '2024'
 venue: 'CVPR'
 citation: 'Qiushan Guo, Shalini De Mello, Hongxu Yin, <b>Wonmin Byeon</b>, Ka Chun Cheung, Yizhou Yu, Ping Luo, Sifei Liu <b>|</b> <i>CVPR 2024</i> '
