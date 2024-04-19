@@ -21,9 +21,9 @@ News
 
 Research Interests
 ======
-* Recurrent Neural Network (RNN), State-Space Models (SSM)
+* Recurrent Neural Network (RNN), State-Space Models (SSM), Linear RNNs
 
-* Spatio-Temporal Learning, Multi-Dimensional Sequence Learning
+* Sequence Learning, Spatio-Temporal Learning
 
 * Predictive Learning, Few-shot Learning, Lifelong Learning
 
