@@ -11,6 +11,8 @@ redirect_from:
 News
 ======
 
+* We've released a new [8B Mamba-based Hybrid LLM](https://wonmin-byeon.github.io/publication/2024-hybrid)! The checkpoints as well as the code are also released as part of NVIDIA's Megatron-LM project (https://github.com/NVIDIA/megatron-LM/tree/ssm/examples/mamba).
+
 * [1 paper](https://wonmin-byeon.github.io/publication/2024-regiongpt) accepted to CVPR 2024.
 
 * [1 paper](https://wonmin-byeon.github.io/publication/2023-convssm) accepted to NeurIPS 2023.
@@ -29,6 +31,8 @@ Research Interests
 
 Selected Projects
 ======
+* R Waleffe, <b>W Byeon</b>, D Riach, B Norick, V Korthikanti, T Dao, A Gu, A Hatamizadeh, S Singh, D Narayanan, G Kulshreshtha, V Singh, J Casper, J Kautz, M Shoeybi, B Catanzaro, ["An Empirical Study of Mamba-based Language Models"](https://wonmin-byeon.github.io/publication/2024-hybrid), arXiv, 2024
+
 * J T.H. Smith, S De Mello, J Kautz, S W. Linderman, <b>W Byeon</b>, ["Convolutional State Space Models for Long-Range Spatiotemporal Modeling"](https://wonmin-byeon.github.io/publication/2023-convssm), NeurIPS, 2023
 
 * J Su, <b>W Byeon</b>, F Huang, ["Scaling-up Diverse Orthogonal Convolutional Networks with a Paraunitary Framework"](https://wonmin-byeon.github.io/publication/2022-orthoNN), ICML, 2022
