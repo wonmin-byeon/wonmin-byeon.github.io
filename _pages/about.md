@@ -11,7 +11,7 @@ redirect_from:
 News
 ======
 
-* We've released a new [8B Mamba-based Hybrid LLM](https://wonmin-byeon.github.io/publication/2024-hybrid)! The checkpoints as well as the code are also released as part of NVIDIA's Megatron-LM project (https://github.com/NVIDIA/megatron-LM/tree/ssm/examples/mamba).
+* We've released a new [8B Mamba-based Hybrid LLM](https://wonmin-byeon.github.io/publication/2024-hybrid)! The checkpoints as well as the code are also released as part of [NVIDIA's Megatron-LM project](https://github.com/NVIDIA/megatron-LM/tree/ssm/examples/mamba).
 
 * [1 paper](https://wonmin-byeon.github.io/publication/2024-regiongpt) accepted to CVPR 2024.
 
