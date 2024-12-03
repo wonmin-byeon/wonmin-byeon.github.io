@@ -11,6 +11,8 @@ redirect_from:
 News
 ======
 
+* Another Mamba-Transformer Hybrid work ([Hymba](https://wonmin-byeon.github.io/publication/2024-hymba)) is on arxiv! 
+
 * [1 paper](https://wonmin-byeon.github.io/publication/2024-mtvg) accepted to ECCV 2024.
 
 * We've released a new [8B Mamba-based Hybrid LLM](https://wonmin-byeon.github.io/publication/2024-hybrid)! The checkpoints as well as the code are also released as part of [NVIDIA's Megatron-LM project](https://github.com/NVIDIA/megatron-LM/tree/ssm/examples/mamba).
@@ -33,15 +35,17 @@ Research Interests
 
 Selected Projects
 ======
+* X Dong, Y Fu, S Diao, <b>W Byeon</b>, Z Chen, A S Mahabaleshwarkar, S Liu, M Keirsbilck, M Chen, Y Suhara, Y Lin, J Kautz, P Molchanov, ["Hymba: A Hybrid-head Architecture for Small Language Models"](https://wonmin-byeon.github.io/publication/2024-hymba), arXiv, 2024
+
 * R Waleffe, <b>W Byeon</b>, D Riach, B Norick, V Korthikanti, T Dao, A Gu, A Hatamizadeh, S Singh, D Narayanan, G Kulshreshtha, V Singh, J Casper, J Kautz, M Shoeybi, B Catanzaro, ["An Empirical Study of Mamba-based Language Models"](https://wonmin-byeon.github.io/publication/2024-hybrid), arXiv, 2024
 
 * J T.H. Smith, S De Mello, J Kautz, S W. Linderman, <b>W Byeon</b>, ["Convolutional State Space Models for Long-Range Spatiotemporal Modeling"](https://wonmin-byeon.github.io/publication/2023-convssm), NeurIPS, 2023
 
-* J Su, <b>W Byeon</b>, F Huang, ["Scaling-up Diverse Orthogonal Convolutional Networks with a Paraunitary Framework"](https://wonmin-byeon.github.io/publication/2022-orthoNN), ICML, 2022
+<!-- * J Su, <b>W Byeon</b>, F Huang, ["Scaling-up Diverse Orthogonal Convolutional Networks with a Paraunitary Framework"](https://wonmin-byeon.github.io/publication/2022-orthoNN), ICML, 2022 -->
 
-* B Wu*, O Hennigh, J Kautz, S Choudhry, <b>W Byeon*</b>, ["Physics Informed RNN-DCT Networks for Time-Dependent Partial Differential Equations"](https://wonmin-byeon.github.io/publication/2022-rnndct), ICCS 2022 <b> (*) equal contributions </b>
+<!-- * B Wu*, O Hennigh, J Kautz, S Choudhry, <b>W Byeon*</b>, ["Physics Informed RNN-DCT Networks for Time-Dependent Partial Differential Equations"](https://wonmin-byeon.github.io/publication/2022-rnndct), ICCS 2022 <b> (*) equal contributions </b>
     - Presented at NeurIPS'21 Workshop on ML and the Physical Science
-    - Released as part of [NVIDIA Mudulus](https://developer.nvidia.com/modulus)
+    - Released as part of [NVIDIA Mudulus](https://developer.nvidia.com/modulus)  -->
 
 <!-- * J Su*, <b>W Byeon*</b>, F Huang, J Kautz, A Anandkumar, ["Convolutional Tensor-Train LSTM for Spatio-temporal Learning"](https://wonmin-byeon.github.io/publication/2020-convttlstm), NeurIPS 2020 <b> (*) equal contributions </b> 
     - Presented at ECCV'20 Tutorial on Accelerating Computer Vision with Mixed Precision. 
