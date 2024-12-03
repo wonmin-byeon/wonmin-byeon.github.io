@@ -11,7 +11,7 @@ redirect_from:
 News
 ======
 
-* Another Mamba-Transformer Hybrid work ([Hymba](https://wonmin-byeon.github.io/publication/2024-hymba)) is on arxiv! 
+* [Another Mamba-Transformer Hybrid LLM](https://wonmin-byeon.github.io/publication/2024-hymba) is on arxiv! 
 
 * [1 paper](https://wonmin-byeon.github.io/publication/2024-mtvg) accepted to ECCV 2024.
 
