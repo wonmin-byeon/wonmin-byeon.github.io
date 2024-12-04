@@ -11,7 +11,7 @@ redirect_from:
 News
 ======
 
-* [Another Mamba-Transformer Hybrid LLM](https://wonmin-byeon.github.io/publication/2024-hymba) is on arxiv! Check the [blog post](https://developer.nvidia.com/blog/hymba-hybrid-head-architecture-boosts-small-language-model-performance/).
+* Another [Mamba-Transformer Hybrid LLM](https://wonmin-byeon.github.io/publication/2024-hymba) is on arxiv! Check the [blog post](https://developer.nvidia.com/blog/hymba-hybrid-head-architecture-boosts-small-language-model-performance/).
 
 * [1 paper](https://wonmin-byeon.github.io/publication/2024-mtvg) accepted to ECCV 2024.
 
