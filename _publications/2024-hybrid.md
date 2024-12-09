@@ -9,8 +9,10 @@ citation: 'Roger Waleffe, <b>Wonmin Byeon</b>, Duncan Riach, Brandon Norick, Vij
 paperurl: 'https://arxiv.org/pdf/2406.07887'
 ---
 [[arxiv]](https://arxiv.org/abs/2406.07887)&nbsp;
+[[talk]](https://www.youtube.com/watch?v=wgcsfLP4Cbw&t=1s)&nbsp;
 [[code]](https://github.com/NVIDIA/megatron-LM/tree/ssm/examples/mamba)&nbsp;
 [[checkpoints]](https://huggingface.co/collections/nvidia/ssms-666a362c5c3bb7e4a6bcfb9c)&nbsp;
+
 <!-- [[project page]](https://kuai-lab.github.io/cvpr2022sound/)  -->
 
 
