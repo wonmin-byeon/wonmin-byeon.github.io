@@ -11,6 +11,8 @@ redirect_from:
 News
 ======
 
+* We are hiring interns! If you are a PhD student working on SSM, Mamba, or alternative architectures for LLMs, email me your CV.
+
 * Another [Mamba-Transformer Hybrid LLM](https://wonmin-byeon.github.io/publication/2024-hymba) is on arxiv! Check the [blog post](https://developer.nvidia.com/blog/hymba-hybrid-head-architecture-boosts-small-language-model-performance/).
 
 * We've released a new [8B Mamba-based Hybrid LLM](https://wonmin-byeon.github.io/publication/2024-hybrid)! The checkpoints as well as the code are also released as part of [NVIDIA's Megatron-LM project](https://github.com/NVIDIA/megatron-LM/tree/ssm/examples/mamba). I gave a [talk](https://www.youtube.com/watch?v=wgcsfLP4Cbw&t=1s) at KAIST.
