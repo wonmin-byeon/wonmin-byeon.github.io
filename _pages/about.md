@@ -11,7 +11,7 @@ redirect_from:
 News
 ======
 
-* We are hiring interns! If you are a PhD student working on SSM, Mamba, or alternative architectures for LLMs, email me your CV.
+* We are hiring interns! If you are a PhD student working on SSM, Mamba, or alternative architectures for LLMs or multimodal LLMs, email me your CV.
 
 * Another [Mamba-Transformer Hybrid LLM](https://wonmin-byeon.github.io/publication/2024-hymba) is on arxiv! Check the [blog post](https://developer.nvidia.com/blog/hymba-hybrid-head-architecture-boosts-small-language-model-performance/).
 
