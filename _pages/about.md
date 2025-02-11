@@ -13,7 +13,7 @@ News
 
 * We intoduce efficient [2D parallel sequence modeling](https://wonmin-byeon.github.io/publication/2025-gspn) for image classifcaiton and generation. The paper is on arxiv!
 
-* Another [Mamba-Transformer Hybrid LLM](https://wonmin-byeon.github.io/publication/2024-hymba) is on arxiv! Check the [blog post](https://developer.nvidia.com/blog/hymba-hybrid-head-architecture-boosts-small-language-model-performance/). The paper is accepted as a Spotlight to ICLR25!
+* Another [Mamba-Transformer Hybrid LLM](https://wonmin-byeon.github.io/publication/2024-hymba) is on arxiv! Check the [blog post](https://developer.nvidia.com/blog/hymba-hybrid-head-architecture-boosts-small-language-model-performance/). The paper is accepted as a Spotlight to ICLR 2025!
 
 * We've released a new [8B Mamba-based Hybrid LLM](https://wonmin-byeon.github.io/publication/2024-hybrid)! The checkpoints as well as the code are also released as part of [NVIDIA's Megatron-LM project](https://github.com/NVIDIA/megatron-LM/tree/ssm/examples/mamba). I gave a [talk](https://www.youtube.com/watch?v=wgcsfLP4Cbw&t=1s) at KAIST.
 
