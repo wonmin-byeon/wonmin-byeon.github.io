@@ -13,7 +13,7 @@ News
 
 * We intoduce efficient [2D parallel sequence modeling](https://wonmin-byeon.github.io/publication/2025-gspn) for image classifcaiton and generation. The paper is on arxiv!
 
-* Another [Mamba-Transformer Hybrid LLM](https://wonmin-byeon.github.io/publication/2024-hymba) is on arxiv! Check the [blog post](https://developer.nvidia.com/blog/hymba-hybrid-head-architecture-boosts-small-language-model-performance/). The paper is accepted as a Spotlight to ICLR 2025!
+* Another [Mamba-Transformer Hybrid LLM](https://wonmin-byeon.github.io/publication/2025-hymba) is on arxiv! Check the [blog post](https://developer.nvidia.com/blog/hymba-hybrid-head-architecture-boosts-small-language-model-performance/). The paper is accepted as a Spotlight to ICLR 2025!
 
 * We've released a new [8B Mamba-based Hybrid LLM](https://wonmin-byeon.github.io/publication/2024-hybrid)! The checkpoints as well as the code are also released as part of [NVIDIA's Megatron-LM project](https://github.com/NVIDIA/megatron-LM/tree/ssm/examples/mamba). I gave a [talk](https://www.youtube.com/watch?v=wgcsfLP4Cbw&t=1s) at KAIST.
 
@@ -37,7 +37,7 @@ Selected Projects
 ======
 * H Wang, <b>W Byeon</b>, J Xu, J Gu, KC Cheung, X Wang, K Han, J Kautz, S Liu, ["Parallel Sequence Modeling via Generalized Spatial Propagation Network"](https://wonmin-byeon.github.io/publication/2025-gspn), arXiv, 2025
 
-* X Dong, Y Fu, S Diao, <b>W Byeon</b>, Z Chen, A S Mahabaleshwarkar, S Liu, M Keirsbilck, M Chen, Y Suhara, Y Lin, J Kautz, P Molchanov, ["Hymba: A Hybrid-head Architecture for Small Language Models"](https://wonmin-byeon.github.io/publication/2024-hymba), ICLR, 2025
+* X Dong, Y Fu, S Diao, <b>W Byeon</b>, Z Chen, A S Mahabaleshwarkar, S Liu, M Keirsbilck, M Chen, Y Suhara, Y Lin, J Kautz, P Molchanov, ["Hymba: A Hybrid-head Architecture for Small Language Models"](https://wonmin-byeon.github.io/publication/2025-hymba), ICLR, 2025
 
 * R Waleffe, <b>W Byeon</b>, D Riach, B Norick, V Korthikanti, T Dao, A Gu, A Hatamizadeh, S Singh, D Narayanan, G Kulshreshtha, V Singh, J Casper, J Kautz, M Shoeybi, B Catanzaro, ["An Empirical Study of Mamba-based Language Models"](https://wonmin-byeon.github.io/publication/2024-hybrid), arXiv, 2024
 
