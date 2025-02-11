@@ -33,8 +33,6 @@ Research Interests
 
 * Sequence Learning, Spatio-Temporal Learning
 
-* Predictive Learning, Few-shot Learning, Lifelong Learning
-
 Selected Projects
 ======
 * H Wang, <b>W Byeon</b>, J Xu, J Gu, KC Cheung, X Wang, K Han, J Kautz, S Liu, ["Parallel Sequence Modeling via Generalized Spatial Propagation Network"](https://wonmin-byeon.github.io/publication/2025-gspn), arXiv, 2025
