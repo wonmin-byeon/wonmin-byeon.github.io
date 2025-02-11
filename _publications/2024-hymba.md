@@ -2,10 +2,10 @@
 title: "Hymba: A Hybrid-head Architecture for Small Language Models"
 collection: publications
 permalink: /publication/2024-hymba
-date: 2024-12-01
-year: '2024'
-venue: 'arXiv'
-citation: 'Xin Dong, Yonggan Fu, Shizhe Diao, <b>Wonmin Byeon</b>, Zijia Chen, Ameya Sunil Mahabaleshwarkar, Shih-Yang Liu, Matthijs Van Keirsbilck, Min-Hung Chen, Yoshi Suhara, Yingyan Lin, Jan Kautz, Pavlo Molchanov <b>|</b> <i> arXiv</i> '
+date: 2025-04-01
+year: '2025'
+venue: 'ICLR'
+citation: 'Xin Dong, Yonggan Fu, Shizhe Diao, <b>Wonmin Byeon</b>, Zijia Chen, Ameya Sunil Mahabaleshwarkar, Shih-Yang Liu, Matthijs Van Keirsbilck, Min-Hung Chen, Yoshi Suhara, Yingyan Lin, Jan Kautz, Pavlo Molchanov <b>|</b> <i> ICLR 2025</i> '
 paperurl: 'https://www.arxiv.org/abs/2411.13676'
 ---
 [[arxiv]](https://www.arxiv.org/abs/2411.13676)&nbsp;
