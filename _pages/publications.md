@@ -10,7 +10,14 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+<h2>2025</h2>
+{% for post in site.publications reversed %}
+  {% if post.year == '2025' %}
+      {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
 
+-----------------------------------------
 <h2>2024</h2>
 {% for post in site.publications reversed %}
   {% if post.year == '2024' %}
