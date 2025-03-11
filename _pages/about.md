@@ -11,7 +11,7 @@ redirect_from:
 News
 ======
 
-* Our [token-efficient long video model for multimodal LLMs](https://wonmin-byeon.github.io/publication/2025-storm) (STORM) is on arXiv. It achieves more than 5\% improvement on MLVU and LongVideoBench compared to SOTA while reducing the computation costs by up to 8× and the decoding latency by 2.4-2.9×. Check the [project page](https://research.nvidia.com/labs/lpr/storm/) for the details!
+* Our [token-efficient long video model for multimodal LLMs](https://wonmin-byeon.github.io/publication/2025-storm) (STORM) is on arXiv. It achieves more than 5% improvement on MLVU and LongVideoBench compared to SOTA while reducing the computation costs by up to 8× and the decoding latency by 2.4-2.9×. Check the [project page](https://research.nvidia.com/labs/lpr/storm/) for the details!
 
 * We intoduce efficient [2D parallel sequence modeling](https://wonmin-byeon.github.io/publication/2025-gspn) for image classifcaiton and generation. The paper is accepted to CVPR 2025!
 
