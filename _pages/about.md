@@ -11,7 +11,9 @@ redirect_from:
 News
 ======
 
-* We intoduce efficient [2D parallel sequence modeling](https://wonmin-byeon.github.io/publication/2025-gspn) for image classifcaiton and generation. The paper is on arxiv!
+* Our [token-efficient long video model for multimodal LLMs](https://wonmin-byeon.github.io/publication/2025-storm) (STORM) is on arXiv. It achieves more than 5\% improvement on MLVU and LongVideoBench compared to SOTA while reducing the computation costs by up to 8× and the decoding latency by 2.4-2.9×. Check the [project page](https://research.nvidia.com/labs/lpr/storm/) for the details!
+
+* We intoduce efficient [2D parallel sequence modeling](https://wonmin-byeon.github.io/publication/2025-gspn) for image classifcaiton and generation. The paper is accepted to CVPR 2025!
 
 * Another [Mamba-Transformer Hybrid LLM](https://wonmin-byeon.github.io/publication/2025-hymba) is on arxiv! Check the [blog post](https://developer.nvidia.com/blog/hymba-hybrid-head-architecture-boosts-small-language-model-performance/). The paper is accepted as a Spotlight to ICLR 2025!
 
@@ -35,7 +37,9 @@ Research Interests
 
 Selected Projects
 ======
-* H Wang, <b>W Byeon</b>, J Xu, J Gu, KC Cheung, X Wang, K Han, J Kautz, S Liu, ["Parallel Sequence Modeling via Generalized Spatial Propagation Network"](https://wonmin-byeon.github.io/publication/2025-gspn), arXiv, 2025
+* J Jiang*, X Li*, Z Liu, M Li, G Chen, Z Li, D Huang, G Liu, Z Yu, K Keutzer, S Ahn, J Kautz, H Yin, Y Lu, S Han, <b>W Byeon</b>, ["Token-Efficient Long Video Understanding for Multimodal LLMs"](https://wonmin-byeon.github.io/publication/2025-storm), arXiv, 2025
+
+* H Wang, <b>W Byeon</b>, J Xu, J Gu, KC Cheung, X Wang, K Han, J Kautz, S Liu, ["Parallel Sequence Modeling via Generalized Spatial Propagation Network"](https://wonmin-byeon.github.io/publication/2025-gspn), CVPR, 2025
 
 * X Dong, Y Fu, S Diao, <b>W Byeon</b>, Z Chen, A S Mahabaleshwarkar, S Liu, M Keirsbilck, M Chen, Y Suhara, Y Lin, J Kautz, P Molchanov, ["Hymba: A Hybrid-head Architecture for Small Language Models"](https://wonmin-byeon.github.io/publication/2025-hymba), ICLR, 2025
 
