@@ -39,9 +39,9 @@ Research Interests
 
 Selected Projects
 ======
-* NVIDIA, ["NVIDIA Nemotron Nano 2: An Accurate and Efficient Hybrid Mamba-Transformer Reasoning Model"](https://wonmin-byeon.github.io/publication/2025-nemotron-nano), arXiv, 2025
+* Co-authored with many colleagues at NVIDIA (incl. <b>W. Byeon</b>), ["NVIDIA Nemotron Nano 2: An Accurate and Efficient Hybrid Mamba-Transformer Reasoning Model"](https://wonmin-byeon.github.io/publication/2025-nemotron-nano), arXiv, 2025
 
-* NVIDIA, ["Nemotron-H: A Family of Accurate and Efficient Hybrid Mamba-Transformer Models"](https://wonmin-byeon.github.io/publication/2025-nemotron-h), arXiv, 2025
+* Co-authored with many colleagues at NVIDIA (incl. <b>W. Byeon</b>), ["Nemotron-H: A Family of Accurate and Efficient Hybrid Mamba-Transformer Models"](https://wonmin-byeon.github.io/publication/2025-nemotron-h), arXiv, 2025
 
 * J Jiang*, X Li*, Z Liu, M Li, G Chen, Z Li, D Huang, G Liu, Z Yu, K Keutzer, S Ahn, J Kautz, H Yin, Y Lu, S Han, <b>W Byeon</b>, ["Token-Efficient Long Video Understanding for Multimodal LLMs"](https://wonmin-byeon.github.io/publication/2025-storm), arXiv, 2025
 

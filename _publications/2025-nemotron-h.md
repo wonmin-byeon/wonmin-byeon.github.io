@@ -5,7 +5,7 @@ permalink: /publication/2025-nemotron-h
 date: 2025-04-01
 year: '2025'
 venue: 'arXiv'
-citation: 'NVIDIA <b>|</b> <i> arXiv </i> '
+citation: 'Co-authored with many colleagues at NVIDIA (incl. <b>Wonmin Byeon</b>) <b>|</b> <i> arXiv </i> '
 paperurl: 'https://arxiv.org/abs/2504.03624'
 ---
 [[arxiv]](https://arxiv.org/abs/2504.03624)&nbsp;

@@ -5,7 +5,7 @@ permalink: /publication/2025-nemotron-nano
 date: 2025-08-01
 year: '2025'
 venue: 'arXiv'
-citation: 'NVIDIA <b>|</b> <i> arXiv </i> '
+citation: 'Co-authored with many colleagues at NVIDIA (incl. <b>Wonmin Byeon</b>) <b>|</b> <i> arXiv </i> '
 paperurl: 'https://arxiv.org/abs/2508.14444'
 ---
 [[arxiv]](https://arxiv.org/abs/2508.14444)&nbsp;
