@@ -11,6 +11,8 @@ redirect_from:
 News
 ======
 
+* We recently introduced [Nemotron Nano V2](https://wonmin-byeon.github.io/publication/2025-nemotron-nano), a 9B hybrid model that delivers competitive or superior accuracy on reasoning benchmarks while achieving up to 6× higher inference throughput in reasoning tasks (e.g., 8k input and 16k output tokens). The model builds on our [Mamba-based Hybrid LLM work](https://wonmin-byeon.github.io/publication/2024-hybrid).
+
 * Our [token-efficient long video model for multimodal LLMs](https://wonmin-byeon.github.io/publication/2025-storm) (STORM) is on arXiv. It achieves more than 5% improvement on MLVU and LongVideoBench compared to SOTA while reducing the computation costs by up to 8× and the decoding latency by 2.4-2.9×. Check the [project page](https://research.nvidia.com/labs/lpr/storm/) for more details!
 
 * We intoduce efficient [2D parallel sequence modeling](https://wonmin-byeon.github.io/publication/2025-gspn) for image classifcaiton and generation. The paper is accepted to CVPR 2025!
@@ -19,11 +21,11 @@ News
 
 * We've released a new [8B Mamba-based Hybrid LLM](https://wonmin-byeon.github.io/publication/2024-hybrid)! The checkpoints as well as the code are also released as part of [NVIDIA's Megatron-LM project](https://github.com/NVIDIA/megatron-LM/tree/ssm/examples/mamba). I gave a [talk](https://www.youtube.com/watch?v=wgcsfLP4Cbw&t=1s) at KAIST.
 
-* [1 paper](https://wonmin-byeon.github.io/publication/2024-mtvg) accepted to ECCV 2024.
+<!-- * [1 paper](https://wonmin-byeon.github.io/publication/2024-mtvg) accepted to ECCV 2024. -->
 
-* [1 paper](https://wonmin-byeon.github.io/publication/2024-regiongpt) accepted to CVPR 2024.
+<!-- * [1 paper](https://wonmin-byeon.github.io/publication/2024-regiongpt) accepted to CVPR 2024. -->
 
-* [1 paper](https://wonmin-byeon.github.io/publication/2023-convssm) accepted to NeurIPS 2023.
+<!-- * [1 paper](https://wonmin-byeon.github.io/publication/2023-convssm) accepted to NeurIPS 2023. -->
 
 <!-- * [1 paper](https://wonmin-byeon.github.io/publication/2023-PowerofSound) accepted to ICCV 2023. [2 papers](https://wonmin-byeon.github.io/publications/) accepted to CVPR 2023. -->
 
@@ -37,6 +39,10 @@ Research Interests
 
 Selected Projects
 ======
+* NVIDIA, ["NVIDIA Nemotron Nano 2: An Accurate and Efficient Hybrid Mamba-Transformer Reasoning Model"](https://wonmin-byeon.github.io/publication/2025-nemotron-nano), arXiv, 2025
+
+* NVIDIA, ["Nemotron-H: A Family of Accurate and Efficient Hybrid Mamba-Transformer Models"](https://wonmin-byeon.github.io/publication/2025-nemotron-h), arXiv, 2025
+
 * J Jiang*, X Li*, Z Liu, M Li, G Chen, Z Li, D Huang, G Liu, Z Yu, K Keutzer, S Ahn, J Kautz, H Yin, Y Lu, S Han, <b>W Byeon</b>, ["Token-Efficient Long Video Understanding for Multimodal LLMs"](https://wonmin-byeon.github.io/publication/2025-storm), arXiv, 2025
 
 * H Wang, <b>W Byeon</b>, J Xu, J Gu, KC Cheung, X Wang, K Han, J Kautz, S Liu, ["Parallel Sequence Modeling via Generalized Spatial Propagation Network"](https://wonmin-byeon.github.io/publication/2025-gspn), CVPR, 2025
@@ -45,7 +51,7 @@ Selected Projects
 
 * R Waleffe, <b>W Byeon</b>, D Riach, B Norick, V Korthikanti, T Dao, A Gu, A Hatamizadeh, S Singh, D Narayanan, G Kulshreshtha, V Singh, J Casper, J Kautz, M Shoeybi, B Catanzaro, ["An Empirical Study of Mamba-based Language Models"](https://wonmin-byeon.github.io/publication/2024-hybrid), arXiv, 2024
 
-* J T.H. Smith, S De Mello, J Kautz, S W. Linderman, <b>W Byeon</b>, ["Convolutional State Space Models for Long-Range Spatiotemporal Modeling"](https://wonmin-byeon.github.io/publication/2023-convssm), NeurIPS, 2023
+<!-- * J T.H. Smith, S De Mello, J Kautz, S W. Linderman, <b>W Byeon</b>, ["Convolutional State Space Models for Long-Range Spatiotemporal Modeling"](https://wonmin-byeon.github.io/publication/2023-convssm), NeurIPS, 2023 -->
 
 <!-- * J Su, <b>W Byeon</b>, F Huang, ["Scaling-up Diverse Orthogonal Convolutional Networks with a Paraunitary Framework"](https://wonmin-byeon.github.io/publication/2022-orthoNN), ICML, 2022 -->
 
