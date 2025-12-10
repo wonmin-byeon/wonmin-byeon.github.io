@@ -5,7 +5,7 @@ permalink: /publication/2025-nemotron-flash
 date: 2025-12-01
 year: '2025'
 venue: 'NeruIPS'
-citation: 'Yonggan Fu*, Xin Dong*, Shizhe Diao, Matthijs Van keirsbilck, Hanrong Ye, <b> Wonmin Byeon </b>, Yashaswi Karnati, Lucas Liebenwein, Hannah Zhang, Nikolaus Binder, Maksim Khadkevich, Alexander Keller, Jan Kautz, Yingyan (Celine) Lin, Pavlo Molchanov</b> <b>|</b> <i> NeruIPS 2025 </i> '
+citation: 'Yonggan Fu*, Xin Dong*, Shizhe Diao, Matthijs Van keirsbilck, Hanrong Ye, <b> Wonmin Byeon </b>, Yashaswi Karnati, Lucas Liebenwein, Hannah Zhang, Nikolaus Binder, Maksim Khadkevich, Alexander Keller, Jan Kautz, Yingyan (Celine) Lin, Pavlo Molchanov <b>|</b> <i> NeruIPS 2025 </i> '
 paperurl: 'https://arxiv.org/pdf/2511.18890'
 ---
 [[arxiv]](https://arxiv.org/abs/2511.18890)&nbsp;
