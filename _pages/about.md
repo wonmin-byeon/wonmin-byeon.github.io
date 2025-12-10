@@ -11,6 +11,8 @@ redirect_from:
 News
 ======
 
+* [3 papers](https://wonmin-byeon.github.io/publications/) accepted to NeurIPS 2025.
+
 * We recently introduced [Nemotron Nano V2](https://wonmin-byeon.github.io/publication/2025-nemotron-nano), a 9B hybrid model that delivers competitive or superior accuracy on reasoning benchmarks while achieving up to 6× higher inference throughput in reasoning tasks (e.g., 8k input and 16k output tokens). The model builds on our [Mamba-based Hybrid LLM work](https://wonmin-byeon.github.io/publication/2024-hybrid).
 
 * Our [token-efficient long video model for multimodal LLMs](https://wonmin-byeon.github.io/publication/2025-storm) (STORM) is on arXiv. It achieves more than 5% improvement on MLVU and LongVideoBench compared to SOTA while reducing the computation costs by up to 8× and the decoding latency by 2.4-2.9×. Check the [project page](https://research.nvidia.com/labs/lpr/storm/) for more details!
@@ -19,7 +21,7 @@ News
 
 * Another [Mamba-Transformer Hybrid LLM](https://wonmin-byeon.github.io/publication/2025-hymba) is on arxiv! Check the [blog post](https://developer.nvidia.com/blog/hymba-hybrid-head-architecture-boosts-small-language-model-performance/). The paper is accepted as a Spotlight to ICLR 2025!
 
-* We've released a new [8B Mamba-based Hybrid LLM](https://wonmin-byeon.github.io/publication/2024-hybrid)! The checkpoints as well as the code are also released as part of [NVIDIA's Megatron-LM project](https://github.com/NVIDIA/megatron-LM/tree/ssm/examples/mamba). I gave a [talk](https://www.youtube.com/watch?v=wgcsfLP4Cbw&t=1s) at KAIST.
+<!-- * We've released a new [8B Mamba-based Hybrid LLM](https://wonmin-byeon.github.io/publication/2024-hybrid)! The checkpoints as well as the code are also released as part of [NVIDIA's Megatron-LM project](https://github.com/NVIDIA/megatron-LM/tree/ssm/examples/mamba). I gave a [talk](https://www.youtube.com/watch?v=wgcsfLP4Cbw&t=1s) at KAIST. -->
 
 <!-- * [1 paper](https://wonmin-byeon.github.io/publication/2024-mtvg) accepted to ECCV 2024. -->
 
