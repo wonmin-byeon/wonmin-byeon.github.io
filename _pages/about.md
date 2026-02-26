@@ -52,7 +52,7 @@ Selected Projects
 
 * X Dong, Y Fu, S Diao, <b>W Byeon</b>, Z Chen, A S Mahabaleshwarkar, S Liu, M Keirsbilck, M Chen, Y Suhara, Y Lin, J Kautz, P Molchanov, ["Hymba: A Hybrid-head Architecture for Small Language Models"](https://wonmin-byeon.github.io/publication/2025-hymba), ICLR, 2025
 
-* R Waleffe, <b>W Byeon</b>, D Riach, B Norick, V Korthikanti, T Dao, A Gu, A Hatamizadeh, S Singh, D Narayanan, G Kulshreshtha, V Singh, J Casper, J Kautz, M Shoeybi, B Catanzaro, ["An Empirical Study of Mamba-based Language Models"](https://wonmin-byeon.github.io/publication/2024-hybrid), arXiv, 2024
+<!-- * R Waleffe, <b>W Byeon</b>, D Riach, B Norick, V Korthikanti, T Dao, A Gu, A Hatamizadeh, S Singh, D Narayanan, G Kulshreshtha, V Singh, J Casper, J Kautz, M Shoeybi, B Catanzaro, ["An Empirical Study of Mamba-based Language Models"](https://wonmin-byeon.github.io/publication/2024-hybrid), arXiv, 2024 -->
 
 <!-- * J T.H. Smith, S De Mello, J Kautz, S W. Linderman, <b>W Byeon</b>, ["Convolutional State Space Models for Long-Range Spatiotemporal Modeling"](https://wonmin-byeon.github.io/publication/2023-convssm), NeurIPS, 2023 -->
 
