@@ -10,7 +10,7 @@ redirect_from:
 
 News
 ======
-* [1 paper](https://wonmin-byeon.github.io/publications/2026-m3kg) accepted to CVPR 2026.
+* [1 paper](https://wonmin-byeon.github.io/publication/2026-m3kg) accepted to CVPR 2026.
 
 * [3 papers](https://wonmin-byeon.github.io/publications/) accepted to NeurIPS 2025.
 
