@@ -10,6 +10,9 @@ redirect_from:
 
 News
 ======
+
+* Check out how the AI community is discussing [STORM](https://arxiv.org/abs/2503.04130)! From technical podcasts to detailed audio summaries, these resources offer a variety of ways to learn about our latest research in efficient video-LLMs. You can find the full list of videos [here](https://wonmin-byeon.github.io/publication/2025-storm). 
+
 * [1 paper](https://wonmin-byeon.github.io/publication/2026-m3kg) accepted to CVPR 2026.
 
 * [3 papers](https://wonmin-byeon.github.io/publications/) accepted to NeurIPS 2025.
