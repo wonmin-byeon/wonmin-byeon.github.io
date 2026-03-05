@@ -22,8 +22,8 @@ News
 * We recently introduced [Nemotron Nano V2](https://wonmin-byeon.github.io/publication/2025-nemotron-nano), a 9B hybrid model that delivers competitive or superior accuracy on reasoning benchmarks while achieving up to 6× higher inference throughput in reasoning tasks (e.g., 8k input and 16k output tokens). The model builds on our [Mamba-based Hybrid LLM work](https://wonmin-byeon.github.io/publication/2024-hybrid).
 
 * Our [token-efficient long video model for multimodal LLMs](https://wonmin-byeon.github.io/publication/2025-storm) (STORM) is on arXiv. It achieves more than 5% improvement on MLVU and LongVideoBench compared to SOTA while reducing the computation costs by up to 8× and the decoding latency by 2.4-2.9×. Check the [project page](https://research.nvidia.com/labs/lpr/storm/) for more details!
-<!-- 
-* We intoduce efficient [2D parallel sequence modeling](https://wonmin-byeon.github.io/publication/2025-gspn) for image classifcaiton and generation. The paper is accepted to CVPR 2025! -->
+
+<!-- * We intoduce efficient [2D parallel sequence modeling](https://wonmin-byeon.github.io/publication/2025-gspn) for image classifcaiton and generation. The paper is accepted to CVPR 2025! -->
 
 <!-- * Another [Mamba-Transformer Hybrid LLM](https://wonmin-byeon.github.io/publication/2025-hymba) is on arxiv! Check the [blog post](https://developer.nvidia.com/blog/hymba-hybrid-head-architecture-boosts-small-language-model-performance/). The paper is accepted as a Spotlight to ICLR 2025! -->
 
