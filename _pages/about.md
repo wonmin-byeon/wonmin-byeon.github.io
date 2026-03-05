@@ -11,6 +11,8 @@ redirect_from:
 News
 ======
 
+* Our paper [Stateful Token Reduction for Long-Video Hybrid VLMs](https://wonmin-byeon.github.io/publication/2026-stateful) is now on arXiv. We propose stateful token reduction for long-video VLMs, enabling 3.8–4.2× faster prefilling (TTFT) with near-baseline accuracy while using only 25% of visual tokens. With light finetuning under reduction, accuracy improves further and can even surpass the baseline. Check out the paper!
+
 * Check out how the AI community is discussing [STORM](https://arxiv.org/abs/2503.04130)! From technical podcasts to detailed audio summaries, these resources offer a variety of ways to learn about our latest research in efficient video-LLMs. You can find the full list of videos [here](https://wonmin-byeon.github.io/publication/2025-storm). 
 
 * [1 paper](https://wonmin-byeon.github.io/publication/2026-m3kg) accepted to CVPR 2026.
@@ -20,10 +22,10 @@ News
 * We recently introduced [Nemotron Nano V2](https://wonmin-byeon.github.io/publication/2025-nemotron-nano), a 9B hybrid model that delivers competitive or superior accuracy on reasoning benchmarks while achieving up to 6× higher inference throughput in reasoning tasks (e.g., 8k input and 16k output tokens). The model builds on our [Mamba-based Hybrid LLM work](https://wonmin-byeon.github.io/publication/2024-hybrid).
 
 * Our [token-efficient long video model for multimodal LLMs](https://wonmin-byeon.github.io/publication/2025-storm) (STORM) is on arXiv. It achieves more than 5% improvement on MLVU and LongVideoBench compared to SOTA while reducing the computation costs by up to 8× and the decoding latency by 2.4-2.9×. Check the [project page](https://research.nvidia.com/labs/lpr/storm/) for more details!
+<!-- 
+* We intoduce efficient [2D parallel sequence modeling](https://wonmin-byeon.github.io/publication/2025-gspn) for image classifcaiton and generation. The paper is accepted to CVPR 2025! -->
 
-* We intoduce efficient [2D parallel sequence modeling](https://wonmin-byeon.github.io/publication/2025-gspn) for image classifcaiton and generation. The paper is accepted to CVPR 2025!
-
-* Another [Mamba-Transformer Hybrid LLM](https://wonmin-byeon.github.io/publication/2025-hymba) is on arxiv! Check the [blog post](https://developer.nvidia.com/blog/hymba-hybrid-head-architecture-boosts-small-language-model-performance/). The paper is accepted as a Spotlight to ICLR 2025!
+<!-- * Another [Mamba-Transformer Hybrid LLM](https://wonmin-byeon.github.io/publication/2025-hymba) is on arxiv! Check the [blog post](https://developer.nvidia.com/blog/hymba-hybrid-head-architecture-boosts-small-language-model-performance/). The paper is accepted as a Spotlight to ICLR 2025! -->
 
 <!-- * We've released a new [8B Mamba-based Hybrid LLM](https://wonmin-byeon.github.io/publication/2024-hybrid)! The checkpoints as well as the code are also released as part of [NVIDIA's Megatron-LM project](https://github.com/NVIDIA/megatron-LM/tree/ssm/examples/mamba). I gave a [talk](https://www.youtube.com/watch?v=wgcsfLP4Cbw&t=1s) at KAIST. -->
 
@@ -45,15 +47,17 @@ Research Interests
 
 Selected Projects
 ======
+* J Jiang*, A S Deshmukh, K Chumachenko, K Sapra, Z Yu, G Liu, A Tao, P Molchanov, J Kautz, W Byeon*, ["Stateful Token Reduction for Long-Video Hybrid VLMs"](https://wonmin-byeon.github.io/publication/2026-stateful), arXiv, 2026
+
 * Co-authored with many colleagues at NVIDIA (incl. <b>W. Byeon</b>), ["NVIDIA Nemotron Nano 2: An Accurate and Efficient Hybrid Mamba-Transformer Reasoning Model"](https://wonmin-byeon.github.io/publication/2025-nemotron-nano), arXiv, 2025
 
 * Co-authored with many colleagues at NVIDIA (incl. <b>W. Byeon</b>), ["Nemotron-H: A Family of Accurate and Efficient Hybrid Mamba-Transformer Models"](https://wonmin-byeon.github.io/publication/2025-nemotron-h), arXiv, 2025
 
 * J Jiang*, X Li*, Z Liu, M Li, G Chen, Z Li, D Huang, G Liu, Z Yu, K Keutzer, S Ahn, J Kautz, H Yin, Y Lu, S Han, <b>W Byeon</b>, ["Token-Efficient Long Video Understanding for Multimodal LLMs"](https://wonmin-byeon.github.io/publication/2025-storm), arXiv, 2025
 
-* H Wang, <b>W Byeon</b>, J Xu, J Gu, KC Cheung, X Wang, K Han, J Kautz, S Liu, ["Parallel Sequence Modeling via Generalized Spatial Propagation Network"](https://wonmin-byeon.github.io/publication/2025-gspn), CVPR, 2025
+<!-- * H Wang, <b>W Byeon</b>, J Xu, J Gu, KC Cheung, X Wang, K Han, J Kautz, S Liu, ["Parallel Sequence Modeling via Generalized Spatial Propagation Network"](https://wonmin-byeon.github.io/publication/2025-gspn), CVPR, 2025 -->
 
-* X Dong, Y Fu, S Diao, <b>W Byeon</b>, Z Chen, A S Mahabaleshwarkar, S Liu, M Keirsbilck, M Chen, Y Suhara, Y Lin, J Kautz, P Molchanov, ["Hymba: A Hybrid-head Architecture for Small Language Models"](https://wonmin-byeon.github.io/publication/2025-hymba), ICLR, 2025
+<!-- * X Dong, Y Fu, S Diao, <b>W Byeon</b>, Z Chen, A S Mahabaleshwarkar, S Liu, M Keirsbilck, M Chen, Y Suhara, Y Lin, J Kautz, P Molchanov, ["Hymba: A Hybrid-head Architecture for Small Language Models"](https://wonmin-byeon.github.io/publication/2025-hymba), ICLR, 2025 -->
 
 <!-- * R Waleffe, <b>W Byeon</b>, D Riach, B Norick, V Korthikanti, T Dao, A Gu, A Hatamizadeh, S Singh, D Narayanan, G Kulshreshtha, V Singh, J Casper, J Kautz, M Shoeybi, B Catanzaro, ["An Empirical Study of Mamba-based Language Models"](https://wonmin-byeon.github.io/publication/2024-hybrid), arXiv, 2024 -->
 
