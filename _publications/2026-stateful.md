@@ -5,7 +5,7 @@ permalink: /publication/2026-stateful
 date: 2026-03-05
 year: '2026'
 venue: 'arXiv'
-citation: 'Jindong Jiang, Amala Sanjay Deshmukh, Kateryna Chumachenko, Karan Sapra, Zhiding Yu, Guilin Liu, Andrew Tao, Pavlo Molchanov, Jan Kautz, <b>Wonmin Byeon</b> <b>|</b> <i> arXiv </i> '
+citation: 'Jindong Jiang*, Amala Sanjay Deshmukh, Kateryna Chumachenko, Karan Sapra, Zhiding Yu, Guilin Liu, Andrew Tao, Pavlo Molchanov, Jan Kautz, <b>Wonmin Byeon*</b> <b>|</b> <i> arXiv </i> '
 paperurl: 'https://arxiv.org/pdf/2603.00198'
 ---
 [[arxiv]](https://arxiv.org/abs/2603.00198)&nbsp;

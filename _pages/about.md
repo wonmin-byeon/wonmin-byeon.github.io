@@ -47,7 +47,7 @@ Research Interests
 
 Selected Projects
 ======
-* J Jiang*, A S Deshmukh, K Chumachenko, K Sapra, Z Yu, G Liu, A Tao, P Molchanov, J Kautz, W Byeon*, ["Stateful Token Reduction for Long-Video Hybrid VLMs"](https://wonmin-byeon.github.io/publication/2026-stateful), arXiv, 2026
+* J Jiang*, A S Deshmukh, K Chumachenko, K Sapra, Z Yu, G Liu, A Tao, P Molchanov, J Kautz, <b>W Byeon*</b>, ["Stateful Token Reduction for Long-Video Hybrid VLMs"](https://wonmin-byeon.github.io/publication/2026-stateful), arXiv, 2026
 
 * Co-authored with many colleagues at NVIDIA (incl. <b>W. Byeon</b>), ["NVIDIA Nemotron Nano 2: An Accurate and Efficient Hybrid Mamba-Transformer Reasoning Model"](https://wonmin-byeon.github.io/publication/2025-nemotron-nano), arXiv, 2025
 
